@@ -79,5 +79,3 @@
   - [Network Prediction](https://github.com/iDataist/Network-Prediction)
   
  - [Data Science Cheatsheet](https://github.com/iDataist/Data-Science-Cheat-Sheet)
-
-Contact me on [LinkedIn](https://www.linkedin.com/in/renhui/) for discussion of the portfolio, work opportunities, or collaboration.
