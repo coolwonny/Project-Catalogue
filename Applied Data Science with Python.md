@@ -1,4 +1,4 @@
-# Applied Data Science with Python (University of Michigan)
+# Applied Data Science with Python 
 
 ## Tools
 
@@ -73,3 +73,5 @@
   - [Network Centrality](https://github.com/iDataist/Network-Centrality)
 
   - [Network Prediction](https://github.com/iDataist/Network-Prediction)
+  
+Note: I completed the University of Michigan Applied Data Science with Python Specialization in 2018. 
