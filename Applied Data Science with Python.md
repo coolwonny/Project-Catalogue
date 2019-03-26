@@ -16,10 +16,6 @@
 
 ## Contents
 
-- Data Analysis Process
-
-  - [Online Study Behavior](https://github.com/iDataist/Online-Study-Behavior)
-
 - Data Cleaning and Processing
 
   - [Olympic Games Medals](https://github.com/iDataist/Olympic-Games-Medals)
