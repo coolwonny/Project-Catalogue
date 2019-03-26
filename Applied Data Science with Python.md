@@ -1,4 +1,4 @@
-# Project List
+# Applied Data Science with Python (University of Michigan)
 
 ## Tools
 
@@ -77,5 +77,3 @@
   - [Network Centrality](https://github.com/iDataist/Network-Centrality)
 
   - [Network Prediction](https://github.com/iDataist/Network-Prediction)
-  
- - [Data Science Cheatsheet](https://github.com/iDataist/Data-Science-Cheat-Sheet)
