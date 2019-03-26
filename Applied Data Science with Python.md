@@ -32,7 +32,7 @@
 
   - [Building a Custom Visualization](https://github.com/iDataist/Building-a-Custom-Visualization)
   
-  - [Visualize Iris Data](https://github.com/iDataist/Visualize-Iris-Data)
+  - [Visualizing Iris Data](https://github.com/iDataist/Visualize-Iris-Data)
 
 - Machine Learning
 
