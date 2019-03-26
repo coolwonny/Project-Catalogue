@@ -74,4 +74,5 @@
 
   - [Network Prediction](https://github.com/iDataist/Network-Prediction)
   
-Note: I completed the University of Michigan Applied Data Science with Python Specialization in 2018. 
+
+Note: The projects are part of the University of Michigan Applied Data Science with Python Specialization. 
