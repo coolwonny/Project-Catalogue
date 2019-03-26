@@ -1,3 +1,3 @@
 # Project-Catalogue
 
-Description and link for my repositories. 
+Descriptions and links for my repositories. 
