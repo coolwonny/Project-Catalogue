@@ -77,4 +77,4 @@
 
 ## Note
 
-The projects are part of the University of Michigan Applied Data Science with Python Specialization, which I completed in 2018.  
+The projects are part of the University of Michigan Applied Data Science with Python Specialization. 
