@@ -1,4 +1,4 @@
-# Applied Data Science with Python 
+# Data Scientist with Python
 
 ## Tools
 
