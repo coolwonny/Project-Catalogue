@@ -18,6 +18,13 @@
 
 - [Introduction to Python](https://github.com/iDataist/Introduction-to-Python)
 
+  - Basics: the basic concepts of Python. 
+
+  - List: store, access and manipulate data in lists.
+
+  - Functions and Packages: use functions, methods and packages. 
+
+
 - [Intermediate Python for Data Science](https://github.com/iDataist/Intermediate-Python-for-Data-Science)
 
 - [Python Data Science Toolbox (Part 1)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-1)
