@@ -62,13 +62,11 @@
 
 - [Importing Data in Python (Part 2)](https://github.com/iDataist/Importing-Data-in-Python-Part-2)
 
-- []()
+  - Importing data from the Internet: the basics of scraping and parsing web data.
 
+  - Interacting with APIs to import data from the web: the basics of extracting data from APIs. 
 
-
-
-
-  
+  - Diving deep into the Twitter API: stream, analyze and visualize real-time Twitter data. 
 
 ## Note
 
