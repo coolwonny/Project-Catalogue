@@ -1,4 +1,4 @@
-# DataCamp Data Scientist with Python Career Track
+# Data Scientist with Python
 
 ## Tools
 
