@@ -16,65 +16,26 @@
 
 ## Contents
 
-- Data Cleaning and Processing
+- [Introduction to Python](https://github.com/iDataist/Introduction-to-Python)
 
-  - [Olympic Games Medals](https://github.com/iDataist/Olympic-Games-Medals)
+- [Intermediate Python for Data Science](https://github.com/iDataist/Intermediate-Python-for-Data-Science)
 
-  - [United-States-Census](https://github.com/iDataist/United-States-Census)
-  
-  - [Energy Indicators](https://github.com/iDataist/Energy-Indicators)
+- [Python Data Science Toolbox (Part 1)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-1)
 
-  - [Recession Resilience](https://github.com/iDataist/Recession-Resilience)
+- [Python Data Science Toolbox (Part 2)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-2)
 
-- Plotting, Charting & Data Representation
+- [Importing Data in Python (Part 1)](https://github.com/iDataist/Importing-Data-in-Python-Part-1)
 
-  - [Daily-Climate-Records](https://github.com/iDataist/Daily-Climate-Records)
+- [Importing Data in Python (Part 2)](https://github.com/iDataist/Importing-Data-in-Python-Part-2)
 
-  - [Building a Custom Visualization](https://github.com/iDataist/Building-a-Custom-Visualization)
-  
-  - [Visualizing Iris Data](https://github.com/iDataist/Visualize-Iris-Data)
+- []()
 
-- Machine Learning
 
-  - [Overview](https://github.com/iDataist/Machine-Learning) 
 
-  - [Fruit Classification by KNN](https://github.com/iDataist/Fruit-Classification-by-KNN)
-  
-  - [Breast Cancer Diagnosis](https://github.com/iDataist/Breast-Cancer-Diagnosis)
-  
-  - [Regression](https://github.com/iDataist/Regression)
-  
-  - [Mushroom Classification](https://github.com/iDataist/Mushroom-Classification)
 
-  - [Evaluating Models to Predict Fraud](https://github.com/iDataist/Evaluating-Models-to-Predict-Fraud)
 
-  - [Predicting Blight Ticket Payment](https://github.com/iDataist/Predicting-Blight-Ticket-Payment)
-
-- Text Mining
-
-  - [Regex](https://github.com/iDataist/Regex)
-
-  - [Analyzing Moby Dick](https://github.com/iDataist/Analyzing-Moby-Dick)
-
-  - [Spelling Recommender](https://github.com/iDataist/Spelling-Recommender)
-  
-  - [Predicting Spam](https://github.com/iDataist/Predicting-Spam)
-
-  - [Document Similarity](https://github.com/iDataist/Document-Similarity)
-  
-  - [Topic Modelling](https://github.com/iDataist/Topic-Modelling)
-
-- Social Network Analysis
-
-  - [Network Graph](https://github.com/iDataist/Network-Graph)
-
-  - [Network Connectivity](https://github.com/iDataist/Network-Connectivity)
-
-  - [Network Centrality](https://github.com/iDataist/Network-Centrality)
-
-  - [Network Prediction](https://github.com/iDataist/Network-Prediction)
   
 
 ## Note
 
-The projects are part of the University of Michigan Applied Data Science with Python Specialization. 
+The projects are part of the DataCamp Data Scientist with Python Career Track. 
