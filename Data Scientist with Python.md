@@ -54,6 +54,12 @@
 
 - [Importing Data in Python (Part 1)](https://github.com/iDataist/Importing-Data-in-Python-Part-1)
 
+  - Introduction and flat files: import data into Python from all types of flat files, and customize your imports.
+
+  - Importing data from other file types: import file types such as pickled files, Excel spreadsheets, SAS, Stata files, HDF5 files, and MATLAB files. 
+
+  - Working with relational databases in Python: create SQL queries, filter and order SQL records, and join database tables.
+
 - [Importing Data in Python (Part 2)](https://github.com/iDataist/Importing-Data-in-Python-Part-2)
 
 - []()
