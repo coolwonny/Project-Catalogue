@@ -45,11 +45,11 @@
 
 - [Python Data Science Toolbox (Part 2)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-2)
 
-- Using iterators: work with iterators and iterables.
+  - Using iterators: work with iterators and iterables.
 
-- List comprehensions and generators: create lists, lists of lists and generators. 
+  - List comprehensions and generators: create lists, lists of lists and generators. 
 
-- Bringing it all together: work with the World Bank's World Development Indicators dataset. 
+  - Bringing it all together: work with the World Bank's World Development Indicators dataset. 
 
 
 - [Importing Data in Python (Part 1)](https://github.com/iDataist/Importing-Data-in-Python-Part-1)
