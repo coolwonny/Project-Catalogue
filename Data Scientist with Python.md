@@ -27,6 +27,13 @@
 
 - [Intermediate Python for Data Science](https://github.com/iDataist/Intermediate-Python-for-Data-Science)
 
+  - Matplotlib: build various types of plots and customize them to make them more visually appealing and interpretable.
+
+  - Dictionaries & Pandas: create, manipulate and access the data with Dictionaries & Pandas.
+
+  - Logic, Control Flow and Filtering: use boolean operators in control structures and Pandas DataFrames. 
+
+
 - [Python Data Science Toolbox (Part 1)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-1)
 
 - [Python Data Science Toolbox (Part 2)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-2)
