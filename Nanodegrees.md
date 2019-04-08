@@ -12,9 +12,9 @@
 
     - [Simpson's Paradox](https://github.com/iDataist/Simpsons-Paradox): Examine the admission dataset to illustrate Simpson's Paradox
     
-    - [Probability](https://github.com/iDataist/Probability): Examine probability, binomial distribution, conditional probability and Bayes Rule. 
+    - [Probability](https://github.com/iDataist/Probability): Examine Probability, Binomial Distribution, Conditional Probability and Bayes Rule. 
     
-    - [Sampling Distributions and Central Limit Theorem](https://github.com/iDataist/Sampling-Distributions-and-Central-Limit-Theorem) 
+    - [Estimate Population Parameters](https://github.com/iDataist/Estimate-Population-Parameters): Examine Sampling Distribution, Central Limit Theorem, Confidence Intervals and Hypothesis Testing
 
 - **Data Wrangling**
 
