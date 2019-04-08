@@ -15,6 +15,8 @@
     - [Probability](https://github.com/iDataist/Probability): Examine Probability, Binomial Distribution, Conditional Probability and Bayes Rule. 
     
     - [Estimate Population Parameters](https://github.com/iDataist/Estimate-Population-Parameters): Examine Sampling Distribution, Central Limit Theorem, Confidence Intervals and Hypothesis Testing
+    
+    - [T-Tests and A/B Tests](https://github.com/iDataist/T-Tests-and-AB-Tests): Test the effect of a treatment or compare the difference in means for two groups with small sample sizes
 
 - **Data Wrangling**
 
