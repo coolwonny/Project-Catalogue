@@ -14,5 +14,27 @@
 
 - **Data Visualization with Python** 
 
+## Data Engineering Nanodegree
+
+- **Data Modeling**
+
+    - Data Modeling with Postgres
+    
+    - Data Modeling with Apache Cassandra
+
+- **Cloud Data Warehouses**
+
+    - Data Infrastructure on the Cloud
+
+- **Data Lakes with Spark**
+
+    - Big Data with Spark
+
+- **Automate Data Pipelines**
+
+    - Data Pipelines with Airflow
+    
+- **Capstone Project**
+
 
 
