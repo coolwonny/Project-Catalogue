@@ -4,7 +4,7 @@
 
 - Introduction to Data Analysis 
 
-  *(Perform the data analysis process on a dataset. Use NumPy and Pandas to wrangle, explore, analyze, and visualize data)*
+  *(Use NumPy and Pandas to wrangle, explore, analyze, and visualize data)*
 
     - Investigate a Dataset (Wine Quality)
 
