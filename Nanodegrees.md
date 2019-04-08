@@ -10,7 +10,7 @@
 
 - **Practical Statistics**
 
-    - [Simpson's Paradox](): Examine a case study about admission 
+    - [Simpson's Paradox](https://github.com/iDataist/Simpsons-Paradox): Examine a case study about admission 
 
 - **Data Wrangling**
 
