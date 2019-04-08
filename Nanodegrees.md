@@ -4,11 +4,11 @@
 
 - Introduction to Data Analysis 
 
-  *(Use NumPy and Pandas to wrangle, explore, analyze, and visualize data)*
+  *(# Use NumPy and Pandas to wrangle, explore, analyze, and visualize data)*
 
-    - Investigate a Dataset (Wine Quality)
+    - Case Study 1 (Wine Quality)
 
-    - Investigate a Dataset (Car Comparison)
+    - Case Study 2 (Car Comparison)
 
 - Practical Statistics
 
