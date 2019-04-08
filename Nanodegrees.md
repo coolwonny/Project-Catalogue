@@ -10,6 +10,8 @@
 
 - **Practical Statistics**
 
+    - [Simpson's Paradox](): Examine a case study about admission 
+
 - **Data Wrangling**
 
 - **Data Visualization with Python** 
