@@ -36,5 +36,5 @@
     
 - **Capstone Project**
 
-
+## 3. Data Scientist Nanodegree
 
