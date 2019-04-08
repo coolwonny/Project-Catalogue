@@ -22,11 +22,11 @@
     
     - Data Modeling with Apache Cassandra
 
-- **Cloud Data Warehouses**
+- **Cloud Data Warehouses** *(Build an ETL pipeline that extracts data from S3, stages them in Rdshift, and transforms data into a set of dimensional tables for the analytics team)*
 
     - Data Infrastructure on the Cloud
 
-- **Data Lakes with Spark**
+- **Data Lakes with Spark** 
 
     - Big Data with Spark
 
