@@ -1,6 +1,6 @@
 # Nanodegrees
 
-## Data Analyst Nanodegree
+## 1. Data Analyst Nanodegree
 
 - **Introduction to Data Analysis** 
 
@@ -14,13 +14,13 @@
 
 - **Data Visualization with Python** 
 
-## Data Engineering Nanodegree
+## 2. Data Engineering Nanodegree
 
 - **Data Modeling**
 
-    - Data Modeling with Postgres
+    - [Data Modeling with Postgres](): Model user activity data to create a database and ETL pipline in Postgres for a music streaming app. Define FACT and Dimension tables and insert data into new tables. 
     
-    - Data Modeling with Apache Cassandra
+    - [Data Modeling with Apache Cassandra](): Model event data to create a non-relational database and ETL pipline for a music streaming app. Define queries and tables for a database built using Apache assandra. 
 
 - **Cloud Data Warehouses** 
 
