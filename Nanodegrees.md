@@ -14,7 +14,7 @@
     
     - [Probability](https://github.com/iDataist/Probability): Examine probability, binomial distribution, conditional probability and Bayes Rule. 
     
-    - [Sampling Distributions and Central Limit Theorem](): 
+    - [Sampling Distributions and Central Limit Theorem](https://github.com/iDataist/Sampling-Distributions-and-Central-Limit-Theorem) 
 
 - **Data Wrangling**
 
