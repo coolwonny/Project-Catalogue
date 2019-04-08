@@ -6,4 +6,4 @@ Descriptions and links for my repositories.
 
 - [Data Scientist with Python (DataCamp Career Track)](https://github.com/iDataist/Project-Catalogue/blob/master/Data%20Scientist%20with%20Python.md)
 
-- [Nanodegrees (Udacity](https://github.com/iDataist/Project-Catalogue/blob/master/Nanodegrees.md)
+- [Nanodegrees (Udacity)](https://github.com/iDataist/Project-Catalogue/blob/master/Nanodegrees.md)
