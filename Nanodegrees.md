@@ -18,7 +18,7 @@
     
     - [T-Tests and A/B Tests](https://github.com/iDataist/T-Tests-and-AB-Tests): Test the effect of a treatment or compare the difference in means for two groups with small sample sizes
     
-        - [Analyze A/B Test Result](https://github.com/iDataist/Analyze-AB-Test-Result)
+        - [Analyze A/B Test Result](https://github.com/iDataist/Analyze-AB-Test-Result): Analyze results of an A/B test run by an e-commerce website, and help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 - **Data Wrangling**
 
