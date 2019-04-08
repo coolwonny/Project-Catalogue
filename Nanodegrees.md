@@ -11,6 +11,8 @@
 - **Practical Statistics**
 
     - [Simpson's Paradox](https://github.com/iDataist/Simpsons-Paradox): Examine a case study about admission 
+    
+    - [Probability](https://github.com/iDataist/Probability): Examine probability, binomial distribution, conditional probability and Bayes Rule. 
 
 - **Data Wrangling**
 
