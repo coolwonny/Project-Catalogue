@@ -5,8 +5,21 @@
 - [Data Engineering Nanodegree](#2)
 - [Data Scientist Nanodegree](#3)
 
-<a id='1'></a>
+## Tools
 
+- Numpy
+
+- Pandas
+
+- Matplotlib
+
+- scikit-learn
+
+- NLTK
+
+- NetworkX
+
+<a id='1'></a>
 ## Data Analyst Nanodegree
 
 - **Introduction to Data Analysis**: Use NumPy and Pandas to wrangle, explore, analyze, and visualize data
@@ -50,7 +63,6 @@
 - **Data Visualization with Python** 
 
 <a id='2'></a>
-
 ## Data Engineering Nanodegree
 
 - **Data Modeling**
@@ -74,6 +86,5 @@
 - **Capstone Project**
 
 <a id='3'></a>
-
 ## Data Scientist Nanodegree
 
