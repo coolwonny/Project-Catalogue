@@ -8,7 +8,7 @@
 - [Social Network Analysis](#5)
 
 <a id='1'></a>
-- Data Cleaning and Processing
+- **Data Cleaning and Processing**
 
   - [Olympic Games Medals](https://github.com/iDataist/Olympic-Games-Medals)
 
@@ -19,7 +19,7 @@
   - [Recession Resilience](https://github.com/iDataist/Recession-Resilience)
 
 <a id='2'></a>
-- Plotting, Charting & Data Representation
+- **Plotting, Charting & Data Representation**
 
   - [Daily-Climate-Records](https://github.com/iDataist/Daily-Climate-Records)
 
@@ -28,7 +28,7 @@
   - [Visualizing Iris Data](https://github.com/iDataist/Visualize-Iris-Data)
 
 <a id='3'></a>
-- Machine Learning
+- **Machine Learning**
 
   - [Overview](https://github.com/iDataist/Machine-Learning) 
 
@@ -45,7 +45,7 @@
   - [Predicting Blight Ticket Payment](https://github.com/iDataist/Predicting-Blight-Ticket-Payment)
 
 <a id='4'></a>
-- Text Mining
+- **Text Mining**
 
   - [Regex](https://github.com/iDataist/Regex)
 
@@ -60,7 +60,7 @@
   - [Topic Modelling](https://github.com/iDataist/Topic-Modelling)
 
 <a id='5'></a>
-- Social Network Analysis
+- **Social Network Analysis**
 
   - [Network Graph](https://github.com/iDataist/Network-Graph)
 
