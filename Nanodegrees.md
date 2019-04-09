@@ -59,7 +59,7 @@
 
     - [Univariate Exploration of Data](https://github.com/iDataist/Univariate-Exploration-of-Data): Use bar chart and histogram to depict data
     
-    - [Bivariate Exploration of Data]()
+    - [Bivariate Exploration of Data](https://github.com/iDataist/Bivariate-Exploration-of-Data): Use scatterplot, clustered bar chart, violin & box plot and faceting to depict data
     
     - [Multivariate Exploration of Data]()
     
