@@ -7,6 +7,22 @@
 - [Text Mining](#4)
 - [Social Network Analysis](#5)
 
+## Tools
+
+- Numpy
+
+- Pandas
+
+- Matplotlib
+
+- scikit-learn
+
+- NLTK
+
+- NetworkX
+
+## Contents
+
 <a id='1'></a>
 - **Data Cleaning and Processing**
 
