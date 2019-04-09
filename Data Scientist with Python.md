@@ -1,5 +1,13 @@
 # Data Scientist with Python
 
+## Table of Contents
+- [Introduction to Python](#1)
+- [Intermediate Python for Data Science](#2)
+- [Python Data Science Toolbox (Part 1)](#3)
+- [Python Data Science Toolbox (Part 2)](#4)
+- [Importing Data in Python (Part 1)](#5)
+- [Importing Data in Python (Part 2)](#6)
+
 ## Tools
 
 - Numpy
@@ -16,6 +24,7 @@
 
 ## Contents
 
+<a id='1'></a>
 - [Introduction to Python](https://github.com/iDataist/Introduction-to-Python)
 
   - Basics: the basic concepts of Python. 
@@ -24,7 +33,7 @@
 
   - Functions and Packages: use functions, methods and packages. 
 
-
+<a id='2'></a>
 - [Intermediate Python for Data Science](https://github.com/iDataist/Intermediate-Python-for-Data-Science)
 
   - Matplotlib: build various types of plots and customize them to make them more visually appealing and interpretable.
@@ -33,7 +42,7 @@
 
   - Logic, Control Flow and Filtering: use boolean operators in control structures and Pandas DataFrames. 
 
-
+<a id='3'></a>
 - [Python Data Science Toolbox (Part 1)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-1)
 
   - Writing functions: write simple functions, or functions that accept multiple arguments and return multiple values. 
@@ -42,7 +51,7 @@
 
   - Lambda functions and error-handling: write lambda functions and handle errors. 
 
-
+<a id='4'></a>
 - [Python Data Science Toolbox (Part 2)](https://github.com/iDataist/Python-Data-Science-Toolbox-Part-2)
 
   - Using iterators: work with iterators and iterables.
@@ -51,7 +60,7 @@
 
   - Bringing it all together: work with the World Bank's World Development Indicators dataset. 
 
-
+<a id='5'></a>
 - [Importing Data in Python (Part 1)](https://github.com/iDataist/Importing-Data-in-Python-Part-1)
 
   - Introduction and flat files: import data into Python from all types of flat files, and customize your imports.
@@ -59,7 +68,8 @@
   - Importing data from other file types: import file types such as pickled files, Excel spreadsheets, SAS, Stata files, HDF5 files, and MATLAB files. 
 
   - Working with relational databases in Python: create SQL queries, filter and order SQL records, and join database tables.
-
+  
+<a id='6'></a>
 - [Importing Data in Python (Part 2)](https://github.com/iDataist/Importing-Data-in-Python-Part-2)
 
   - Importing data from the Internet: the basics of scraping and parsing web data.
