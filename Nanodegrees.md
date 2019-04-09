@@ -34,7 +34,7 @@
     
     - [Assessing Data](https://github.com/iDataist/Assessing-Data): Assess data visually and programmatically using pandas
     
-    - [Cleaning Data](https://github.com/iDataist/Cleaning-Data): Clean data with the defining, coding, and testing process
+    - [Cleaning Data](https://github.com/iDataist/Cleaning-Data): Clean data using pandas with the defining, coding, and testing process
 
 - **Data Visualization with Python** 
 
