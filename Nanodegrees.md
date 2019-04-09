@@ -7,17 +7,12 @@
 
 ## Tools
 
-- Numpy
+- Numpy, Pandas, Matplotlib
 
-- Pandas
+- Postgres, Apache Cassandra, AWS S3, Redshift, Apache Spark, Apache Airflow
 
-- Matplotlib
+- scikit-learn, Keras, PyTorch
 
-- scikit-learn
-
-- NLTK
-
-- NetworkX
 
 <a id='1'></a>
 ## Data Analyst Nanodegree
@@ -69,11 +64,11 @@
 
     - [Data Modeling with Postgres](): Model user activity data to create a database and ETL pipline in Postgres for a music streaming app. Define FACT and Dimension tables and insert data into new tables. 
     
-    - [Data Modeling with Apache Cassandra](): Model event data to create a non-relational database and ETL pipline for a music streaming app. Define queries and tables for a database built using Apache assandra. 
+    - [Data Modeling with Apache Cassandra](): Model event data to create a non-relational database and ETL pipline for a music streaming app. Define queries and tables for a database built using Apache Cassandra. 
 
 - **Cloud Data Warehouses** 
 
-    - [Data Infrastructure on the Cloud](): Build an ETL pipeline that extracts data from S3, stages them in Rdshift, and transforms data into a set of dimensional tables for the analytics team. 
+    - [Data Infrastructure on the Cloud](): Build an ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for the analytics team. 
 
 - **Data Lakes with Spark** 
 
