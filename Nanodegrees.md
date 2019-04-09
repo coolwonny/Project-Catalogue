@@ -24,7 +24,7 @@
     
     - [Logistic Regression](https://github.com/iDataist/Logistic-Regression): Use logistic regression results to make a prediction about the relationship between categorical dependent variables and predictors
     
-    - [Project: Analyze A/B Test Result](https://github.com/iDataist/Analyze-AB-Test-Result): Analyze results of an A/B test run by an e-commerce website, and help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+    - [Project](https://github.com/iDataist/Analyze-AB-Test-Result): Analyze results of an A/B test run by an e-commerce website, and help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 - **Data Wrangling**
 
