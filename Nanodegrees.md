@@ -57,7 +57,7 @@
 
 - **Data Visualization with Python** 
 
-    - [Univariate Exploration of Data]()
+    - [Univariate Exploration of Data](https://github.com/iDataist/Univariate-Exploration-of-Data): Use bar chart and histogram to depict data
     
     - [Bivariate Exploration of Data]()
     
