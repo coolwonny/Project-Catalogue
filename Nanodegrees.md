@@ -9,13 +9,13 @@
 
 ## Data Analyst Nanodegree
 
-- **Introduction to Data Analysis** 
+- **Introduction to Data Analysis**: Use NumPy and Pandas to wrangle, explore, analyze, and visualize data
 
-    - [Case Study 1 (Wine Quality)](https://github.com/iDataist/Wine-Quality): Use NumPy and Pandas to wrangle, explore, analyze, and visualize data
+    - [Case Study 1 (Wine Quality)](https://github.com/iDataist/Wine-Quality)
 
-    - [Case Study 2 (Car Comparison)](https://github.com/iDataist/Car-Comparison): Use NumPy and Pandas to wrangle, explore, analyze, and visualize data
+    - [Case Study 2 (Car Comparison)](https://github.com/iDataist/Car-Comparison)
     
-    - [Case Study 3 (Online Study Behavior)](https://github.com/iDataist/Online-Study-Behavior): Use NumPy and Pandas to wrangle, explore, analyze, and visualize data
+    - [Case Study 3 (Online Study Behavior)](https://github.com/iDataist/Online-Study-Behavior)
 
 - **Practical Statistics**
 
