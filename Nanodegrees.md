@@ -57,6 +57,14 @@
 
 - **Data Visualization with Python** 
 
+    - [Univariate Exploration of Data]()
+    
+    - [Bivariate Exploration of Data]()
+    
+    - [Multivariate Exploration of Data]()
+    
+    - [Explainatory Visualization]()
+
 <a id='2'></a>
 ## Data Engineering Nanodegree
 
