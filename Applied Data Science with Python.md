@@ -1,21 +1,13 @@
 # Applied Data Science with Python 
 
-## Tools
+## Table of Contents
+- [Data Cleaning and Processing](#1)
+- [Plotting, Charting & Data Representation](#2)
+- [Machine Learning](#3)
+- [Text Mining](#4)
+- [Social Network Analysis](#5)
 
-- Numpy
-
-- Pandas
-
-- Matplotlib
-
-- scikit-learn
-
-- NLTK
-
-- NetworkX
-
-## Contents
-
+<a id='1'></a>
 - Data Cleaning and Processing
 
   - [Olympic Games Medals](https://github.com/iDataist/Olympic-Games-Medals)
@@ -26,6 +18,7 @@
 
   - [Recession Resilience](https://github.com/iDataist/Recession-Resilience)
 
+<a id='2'></a>
 - Plotting, Charting & Data Representation
 
   - [Daily-Climate-Records](https://github.com/iDataist/Daily-Climate-Records)
@@ -34,6 +27,7 @@
   
   - [Visualizing Iris Data](https://github.com/iDataist/Visualize-Iris-Data)
 
+<a id='3'></a>
 - Machine Learning
 
   - [Overview](https://github.com/iDataist/Machine-Learning) 
@@ -50,6 +44,7 @@
 
   - [Predicting Blight Ticket Payment](https://github.com/iDataist/Predicting-Blight-Ticket-Payment)
 
+<a id='4'></a>
 - Text Mining
 
   - [Regex](https://github.com/iDataist/Regex)
@@ -64,6 +59,7 @@
   
   - [Topic Modelling](https://github.com/iDataist/Topic-Modelling)
 
+<a id='5'></a>
 - Social Network Analysis
 
   - [Network Graph](https://github.com/iDataist/Network-Graph)
