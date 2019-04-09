@@ -7,7 +7,7 @@
 
 <a id='1'></a>
 
-## 1. Data Analyst Nanodegree
+## Data Analyst Nanodegree
 
 - **Introduction to Data Analysis** 
 
@@ -49,8 +49,9 @@
 
 - **Data Visualization with Python** 
 
-<a id='1'></a>
-## 2. Data Engineering Nanodegree
+<a id='2'></a>
+
+## Data Engineering Nanodegree
 
 - **Data Modeling**
 
@@ -73,5 +74,6 @@
 - **Capstone Project**
 
 <a id='3'></a>
-## 3. Data Scientist Nanodegree
+
+## Data Scientist Nanodegree
 
