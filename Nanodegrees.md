@@ -28,6 +28,14 @@
 
 - **Data Wrangling**
 
+    - [Intro to Data Wrangling](https://github.com/iDataist/Armenian-Online-Job-Postings): Wrangle a CSV file downloaded from Kaggle using fundamental gathering, assessing, and cleaning code
+    
+    - [Gathering Data]()
+    
+    - [Assessing Data]()
+    
+    - [Cleaning Data]()
+
 - **Data Visualization with Python** 
 
 ## 2. Data Engineering Nanodegree
