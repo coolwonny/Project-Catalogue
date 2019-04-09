@@ -32,7 +32,7 @@
     
     - [Gathering Data](https://github.com/iDataist/Gathering-Data): Gather data from multiple sources, import data of various file formats into pandas, and store gathered data in a PostgreSQL database
     
-    - [Assessing Data]()
+    - [Assessing Data](https://github.com/iDataist/Assessing-Data): Assess data visually and programmatically using pandas
     
     - [Cleaning Data]()
 
