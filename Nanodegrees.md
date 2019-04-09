@@ -1,5 +1,12 @@
 # Nanodegrees
 
+## Table of Contents
+- [Data Analyst Nanodegree](#1)
+- [Data Engineering Nanodegree](#2)
+- [Data Scientist Nanodegree](#3)
+
+<a id='1'></a>
+
 ## 1. Data Analyst Nanodegree
 
 - **Introduction to Data Analysis** 
@@ -42,6 +49,7 @@
 
 - **Data Visualization with Python** 
 
+<a id='1'></a>
 ## 2. Data Engineering Nanodegree
 
 - **Data Modeling**
@@ -64,5 +72,6 @@
     
 - **Capstone Project**
 
+<a id='3'></a>
 ## 3. Data Scientist Nanodegree
 
