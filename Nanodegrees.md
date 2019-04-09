@@ -30,7 +30,7 @@
 
     - [Intro to Data Wrangling](https://github.com/iDataist/Armenian-Online-Job-Postings): Wrangle a CSV file downloaded from Kaggle using fundamental gathering, assessing, and cleaning code
     
-    - [Gathering Data]()
+    - [Gathering Data](https://github.com/iDataist/Gathering-Data): Gather data from multiple sources, import data of various file formats into pandas, and store gathered data in a PostgreSQL database
     
     - [Assessing Data]()
     
