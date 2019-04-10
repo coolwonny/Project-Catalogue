@@ -7,9 +7,9 @@
 
 ## Tools
 
-- Numpy, Pandas, Matplotlib
+- NumPy, pandas, matplotlib
 
-- Postgres, Apache Cassandra, AWS S3, Redshift, Apache Spark, Apache Airflow
+- PostgreSQL, Apache Cassandra, Amazon S3, Amazon Redshift, Apache Spark, Apache Airflow
 
 - scikit-learn, Keras, PyTorch
 
