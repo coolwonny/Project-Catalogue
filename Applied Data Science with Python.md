@@ -9,11 +9,11 @@
 
 ## Tools
 
-- Numpy
+- NumPy
 
-- Pandas
+- pandas
 
-- Matplotlib
+- matplotlib
 
 - scikit-learn
 
