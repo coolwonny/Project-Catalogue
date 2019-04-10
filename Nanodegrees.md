@@ -61,7 +61,7 @@
     
     - [Bivariate Exploration of Data](https://github.com/iDataist/Bivariate-Exploration-of-Data): Use scatterplot, clustered bar chart, violin & box plot and faceting to depict data
     
-    - [Multivariate Exploration of Data]()
+    - [Multivariate Exploration of Data](https://github.com/iDataist/Multivariate-Exploration-of-Data): Use encodings, plot matrices and feature engineering to depict data
     
     - [Explainatory Visualization]()
 
