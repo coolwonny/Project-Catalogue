@@ -63,7 +63,7 @@
     
     - [Multivariate Exploration of Data](https://github.com/iDataist/Multivariate-Exploration-of-Data): Use encodings, plot matrices and feature engineering to depict data
     
-    - [Explainatory Visualization](https://github.com/iDataist/Explainatory-Visualization): Choose the best plot type, encodings, and annotations to polish your plots
+    - [Explainatory Visualization](https://github.com/iDataist/Explainatory-Visualization): Choose the best plot type, encodings, and annotations to polish the plots
 
 <a id='2'></a>
 ## Data Engineering Nanodegree
