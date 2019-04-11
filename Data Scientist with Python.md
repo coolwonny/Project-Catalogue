@@ -7,6 +7,7 @@
 - [Python Data Science Toolbox (Part 2)](#4)
 - [Importing Data in Python (Part 1)](#5)
 - [Importing Data in Python (Part 2)](#6)
+- [Cleaning Data in Python](#7)
 
 ## Tools
 
@@ -77,6 +78,19 @@
   - Interacting with APIs to import data from the web: the basics of extracting data from APIs. 
 
   - Diving deep into the Twitter API: stream, analyze and visualize real-time Twitter data. 
+
+<a id='7'></a>
+- [Cleaning Data in Python](https://github.com/iDataist/Cleaning-Data-in-Python)
+
+  - Exploring the data: diagnose issues such as outliers, missing values, and duplicate rows.
+
+  - Tidying data for analysis: reshape and tidy the data using pivoting and melting.
+
+  - Combining data for analysis: combine the data using concating and merging. 
+
+  - Cleaning data for analysis: use string manipulation and pattern matching to deal with unstructured data, and then explore techniques to deal with missing or duplicate data. Use assert to programmatically check your data for consistency.
+
+  - Case study: apply all of the data cleaning techniques owards tidying a real-world, messy dataset obtained from the Gapminder Foundation.
 
 ## Note
 
