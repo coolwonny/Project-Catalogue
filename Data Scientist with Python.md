@@ -94,7 +94,16 @@
   - Case study: apply all of the data cleaning techniques owards tidying a real-world, messy dataset obtained from the Gapminder Foundation.
 
 <a id='8'></a>
-- []()
+- [pandas Foundations](https://github.com/iDataist/pandas-Foundations)
+
+  - Data ingestion & inspection: import and inspect a variety of datasets. 
+
+  - Exploratory data analysis: statistical and visual EDA. 
+
+  - Time series in pandas: manipulate and visualize time series data using Pandas, with concepts such as upsampling, downsampling, and interpolation. 
+
+  - Case Study (Sunlight in Austin): work with real-world weather and climate data. 
+  
 ## Note
 
 The projects are part of the DataCamp Data Scientist with Python Career Track. 
