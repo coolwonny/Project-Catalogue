@@ -98,7 +98,7 @@
 
   - Data ingestion & inspection: import and inspect a variety of datasets. 
 
-  - Exploratory data analysis: statistical and visual EDA. 
+  - Exploratory data analysis: perform statistical and visual EDA. 
 
   - Time series in pandas: manipulate and visualize time series data using Pandas, with concepts such as upsampling, downsampling, and interpolation. 
 
