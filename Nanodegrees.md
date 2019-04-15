@@ -72,7 +72,7 @@
 
 - **Data Modeling**
 
-    - [Data Modeling with Postgres](): Model user activity data to create a database and ETL pipline in Postgres for a music streaming app. Define FACT and Dimension tables and insert data into new tables. 
+    - [Data Modeling with Postgres](https://github.com/iDataist/Data-Modeling-with-Postgres): Model user activity data to create a database and ETL pipline in Postgres for a music streaming app. Define FACT and Dimension tables and insert data into new tables. 
     
     - [Data Modeling with Apache Cassandra](): Model event data to create a non-relational database and ETL pipline for a music streaming app. Define queries and tables for a database built using Apache Cassandra. 
 
