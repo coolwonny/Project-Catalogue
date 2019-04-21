@@ -10,6 +10,7 @@
 - [Cleaning Data in Python](#7)
 - [pandas Foundations](#8)
 - [Manipulating DataFrames with pandas](#9)
+- [Merging DataFrames with pandas](#10)
 
 ## Tools
 
@@ -61,7 +62,7 @@
 
   - List comprehensions and generators: create lists, lists of lists and generators.
 
-  - Bringing it all together: work with the World Bank's World Development Indicators dataset.
+  - Case Study: work with the World Bank's World Development Indicators dataset.
 
 <a id='5'></a>
 - [Importing Data in Python (Part 1)](https://github.com/iDataist/Importing-Data-in-Python-Part-1)
@@ -117,6 +118,18 @@
   - Grouping data: split DataFrames by groups or categories for further aggregation or analysis
 
   - Case study: work with the Summer Olympic games data that goes as far back as 1896
+
+<a id='10'></a>
+
+- [Merging DataFrames with pandas](https://github.com/iDataist/Merging-DataFrames-with-pandas/blob/master/Merging_DataFrames_with_pandas.ipynb)
+
+  - Preparing data: import multiple files into DataFrames and share information between DataFrames using their Indexes
+
+  - Concatenating data: append and concatenate DataFrames
+
+  - Merging data: merge pandas DataFrames, including left joins, right joins, inner joins, and outer joins, as well as ordered merging.
+
+  - Case Study - Summer Olympics
 
 ## Note
 
