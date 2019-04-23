@@ -7,15 +7,13 @@
 
 ## Tools
 
-- NumPy
+- NumPy, SciPy, pandas
 
-- pandas
-
-- matplotlib
+- matplotlib, seaborn
 
 - scikit-learn
 
-- NLTK
+- NLTK, gensim
 
 - NetworkX
 
