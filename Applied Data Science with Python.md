@@ -9,9 +9,7 @@
 
 ## Tools
 
-- NumPy
-
-- pandas
+- NumPy, pandas
 
 - matplotlib
 

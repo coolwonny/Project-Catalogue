@@ -14,11 +14,9 @@
 
 ## Tools
 
-- NumPy
+- NumPy, pandas
 
-- pandas
-
-- matplotlib
+- matplotlib, seaborn, Bokeh
 
 - scikit-learn
 
