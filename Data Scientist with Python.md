@@ -11,7 +11,7 @@
 - [pandas Foundations](#8)
 - [Manipulating DataFrames with pandas](#9)
 - [Merging DataFrames with pandas](#10)
-
+- [Introduction to Databases in Python](#12)
 ## Tools
 
 - NumPy, pandas
@@ -119,7 +119,7 @@
 
 <a id='10'></a>
 
-- [Merging DataFrames with pandas](https://github.com/iDataist/Merging-DataFrames-with-pandas/blob/master/Merging_DataFrames_with_pandas.ipynb)
+- [Merging DataFrames with pandas](https://github.com/iDataist/Merging-DataFrames-with-pandas)
 
   - Preparing data: import multiple files into DataFrames and share information between DataFrames using their Indexes
 
@@ -128,6 +128,20 @@
   - Merging data: merge pandas DataFrames, including left joins, right joins, inner joins, and outer joins, as well as ordered merging.
 
   - Case Study - Summer Olympics
+
+<a id='12'></a>
+
+- [Introduction to Databases in Python](https://github.com/iDataist/Introduction-to-Databases-in-Python)
+
+  - Basics of Relational Databases
+
+  - Applying Filtering, Ordering and Grouping to Queries
+
+  - Advanced SQLAlchemy Queries
+
+  - Creating and Manipulating Databases
+
+  - Putting it all together
 
 ## Note
 
