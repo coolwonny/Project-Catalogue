@@ -12,6 +12,8 @@
 - [Manipulating DataFrames with pandas](#9)
 - [Merging DataFrames with pandas](#10)
 - [Introduction to Databases in Python](#12)
+- [Introduction to Data Visualization with Python](#13)
+
 ## Tools
 
 - NumPy, pandas
@@ -142,6 +144,18 @@
   - Creating and Manipulating Databases
 
   - Putting it all together
+
+<a id='13'></a>  
+
+[Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python/blob/master/Introduction_to_Data_Visualization_with_Python.ipynb)
+
+  - Customizing plots
+  
+  - Plotting 2D arrays
+
+  - Statistical plots with Seaborn
+
+  - Analyzing time series and images
 
 ## Note
 
