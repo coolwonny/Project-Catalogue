@@ -13,6 +13,7 @@
 - [Merging DataFrames with pandas](#10)
 - [Introduction to Databases in Python](#12)
 - [Introduction to Data Visualization with Python](#13)
+- [Interactive Data Visualization with Bokeh](#14)
 
 ## Tools
 
@@ -150,12 +151,24 @@
 [Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python/blob/master/Introduction_to_Data_Visualization_with_Python.ipynb)
 
   - Customizing plots
-  
+
   - Plotting 2D arrays
 
   - Statistical plots with Seaborn
 
   - Analyzing time series and images
+
+<a id='14'></a>
+
+[Interactive Data Visualization with Bokeh](https://github.com/iDataist/Interactive-Data-Visualization-with-Bokeh/blob/master/Interactive_Data_Visualization_with_Bokeh.ipynb)
+
+  - Basic plotting with Bokeh
+
+  - Layouts, Interactions, and Annotations
+
+  - Building interactive apps with Bokeh
+
+  - Case Study
 
 ## Note
 
