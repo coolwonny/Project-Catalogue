@@ -14,6 +14,7 @@
 - [Introduction to Databases in Python](#12)
 - [Introduction to Data Visualization with Python](#13)
 - [Interactive Data Visualization with Bokeh](#14)
+- [Statistical Thinking in Python (Part 1)](#15)
 
 ## Tools
 
@@ -170,6 +171,17 @@
 
   - Case Study
 
+<a id='15'></a>
+[Statistical Thinking in Python (Part 1)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-1-/blob/master/Statistical_Thinking_in_Python_(Part_1).ipynb)
+
+  - Graphical exploratory data analysis
+
+  - Quantitative exploratory data analysis
+
+  - Thinking probabilistically-- Discrete variables
+
+  - Thinking probabilistically-- Continuous variables
+  
 ## Note
 
 The projects are part of the DataCamp Data Scientist with Python Career Track.
