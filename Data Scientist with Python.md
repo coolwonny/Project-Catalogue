@@ -15,6 +15,7 @@
 - [Introduction to Data Visualization with Python](#13)
 - [Interactive Data Visualization with Bokeh](#14)
 - [Statistical Thinking in Python (Part 1)](#15)
+- [Statistical Thinking in Python (Part 2)](#16)
 
 ## Tools
 
@@ -181,7 +182,18 @@
   - Thinking probabilistically-- Discrete variables
 
   - Thinking probabilistically-- Continuous variables
-  
+
+<a id='16'></a>
+[Statistical Thinking in Python (Part 2)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-2/blob/master/Statistical_Thinking_in_Python%20(Part%202).ipynb)
+
+  - Parameter estimation by optimization
+
+  - Bootstrap confidence intervals
+
+  - Introduction to hypothesis testing
+
+  - Hypothesis test examples
+
 ## Note
 
 The projects are part of the DataCamp Data Scientist with Python Career Track.
