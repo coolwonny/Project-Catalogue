@@ -16,6 +16,7 @@
 - [Interactive Data Visualization with Bokeh](#14)
 - [Statistical Thinking in Python (Part 1)](#15)
 - [Statistical Thinking in Python (Part 2)](#16)
+- [Supervised Learning with scikit-learn](#18)
 
 ## Tools
 
@@ -193,6 +194,17 @@
   - Introduction to hypothesis testing
 
   - Hypothesis test examples
+
+<a id='18'></a>
+[Supervised Learning with scikit-learn](https://github.com/iDataist/Supervised-Learning-with-scikit-learn/blob/master/Supervised_Learning_with_scikit_learn.ipynb)
+
+  - Classification
+
+  - Regression
+
+  - Fine-tuning your model
+
+  - Preprocessing and pipelines
 
 ## Note
 
