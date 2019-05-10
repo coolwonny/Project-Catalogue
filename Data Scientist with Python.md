@@ -17,6 +17,8 @@
 - [Statistical Thinking in Python (Part 1)](#15)
 - [Statistical Thinking in Python (Part 2)](#16)
 - [Supervised Learning with scikit-learn](#18)
+- [Machine Learning with the Experts: School Budgets](#19)
+- [Unsupervised Learning in Python](#20)
 
 ## Tools
 
@@ -206,6 +208,29 @@
 
   - Preprocessing and pipelines
 
+<a id='19'></a>
+[Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets/blob/master/School_Budgets.ipynb)
+  # Machine Learning with the Experts: School Budgets
+
+  - Exploring the raw data
+
+  - Creating a simple first model
+
+  - Improving the model
+
+  - Learning from the experts
+
+<a id='20'></a>
+[Unsupervised Learning in Python](https://github.com/iDataist/Unsupervised-Learning-in-Python/blob/master/Unsupervised_Learning_in_Python.ipynb)
+
+  - Clustering for dataset exploration
+
+  - Visualization with hierarchical clustering and t-SNE
+
+  - Decorrelating your data and dimension reduction
+
+  - Discovering interpretable features
+  
 ## Note
 
 The projects are part of the DataCamp Data Scientist with Python Career Track.
