@@ -19,6 +19,7 @@
 - [Supervised Learning with scikit-learn](#18)
 - [Machine Learning with the Experts: School Budgets](#19)
 - [Unsupervised Learning in Python](#20)
+- [Deep Learning in Python](#21)
 
 ## Tools
 
@@ -230,6 +231,17 @@
   - Decorrelating your data and dimension reduction
 
   - Discovering interpretable features
+
+<a id='21'></a>
+[Deep Learning in Python](https://github.com/iDataist/Deep-Learning-in-Python/blob/master/Deep_Learning_in_Python.ipynb)
+
+  - Basics of deep learning and neural networks
+
+  - Optimizing a neural network with backward propagation
+
+  - Building deep learning models with keras
+
+  - Fine-tuning keras models  
   
 ## Note
 
