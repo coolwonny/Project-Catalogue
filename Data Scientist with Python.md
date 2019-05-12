@@ -20,6 +20,7 @@
 - [Machine Learning with the Experts: School Budgets](#19)
 - [Unsupervised Learning in Python](#20)
 - [Deep Learning in Python](#21)
+- [Network Analysis in Python (Part 1)](#22)
 
 ## Tools
 
@@ -242,7 +243,18 @@
   - Building deep learning models with keras
 
   - Fine-tuning keras models  
-  
+
+<a id='22'></a>
+[Network Analysis in Python (Part 1)](https://github.com/iDataist/Network-Analysis-in-Python-Part-1/blob/master/Network_Analysis_in_Python_Part_1.ipynb)
+
+  - Introduction to networks
+
+  - Important nodes
+
+  - Structures
+
+  - Case Study
+
 ## Note
 
 The projects are part of the DataCamp Data Scientist with Python Career Track.
