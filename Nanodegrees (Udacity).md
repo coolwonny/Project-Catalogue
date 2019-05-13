@@ -1,4 +1,4 @@
-# Nanodegrees
+# Nanodegrees (Udacity)
 
 ## Table of Contents
 - [Data Analyst Nanodegree](#1)

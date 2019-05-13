@@ -1,4 +1,4 @@
-# Data Scientist with Python
+# Data Scientist with Python (DataCamp Career Track)
 
 ## Table of Contents
 - [Introduction to Python](#1)
@@ -212,7 +212,6 @@
 
 <a id='19'></a>
 [Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets)
-  # Machine Learning with the Experts: School Budgets
 
   - Exploring the raw data
 
@@ -254,7 +253,3 @@
   - Structures
 
   - Case Study
-
-## Note
-
-The projects are part of the DataCamp Data Scientist with Python Career Track.
