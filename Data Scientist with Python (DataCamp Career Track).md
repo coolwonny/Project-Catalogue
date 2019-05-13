@@ -155,7 +155,7 @@
 
 <a id='13'></a>  
 
-[Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python/blob/master/Introduction_to_Data_Visualization_with_Python.ipynb)
+[Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python)
 
   - Customizing plots
 
@@ -167,7 +167,7 @@
 
 <a id='14'></a>
 
-[Interactive Data Visualization with Bokeh](https://github.com/iDataist/Interactive-Data-Visualization-with-Bokeh/blob/master/Interactive_Data_Visualization_with_Bokeh.ipynb)
+[Interactive Data Visualization with Bokeh](https://github.com/iDataist/Interactive-Data-Visualization-with-Bokeh)
 
   - Basic plotting with Bokeh
 
@@ -178,7 +178,7 @@
   - Case Study
 
 <a id='15'></a>
-[Statistical Thinking in Python (Part 1)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-1-/blob/master/Statistical_Thinking_in_Python_(Part_1).ipynb)
+[Statistical Thinking in Python (Part 1)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-1-)
 
   - Graphical exploratory data analysis
 
@@ -189,7 +189,7 @@
   - Thinking probabilistically-- Continuous variables
 
 <a id='16'></a>
-[Statistical Thinking in Python (Part 2)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-2/blob/master/Statistical_Thinking_in_Python%20(Part%202).ipynb)
+[Statistical Thinking in Python (Part 2)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-2)
 
   - Parameter estimation by optimization
 
@@ -200,7 +200,7 @@
   - Hypothesis test examples
 
 <a id='18'></a>
-[Supervised Learning with scikit-learn](https://github.com/iDataist/Supervised-Learning-with-scikit-learn/blob/master/Supervised_Learning_with_scikit_learn.ipynb)
+[Supervised Learning with scikit-learn](https://github.com/iDataist/Supervised-Learning-with-scikit-learn)
 
   - Classification
 
@@ -211,7 +211,7 @@
   - Preprocessing and pipelines
 
 <a id='19'></a>
-[Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets/blob/master/School_Budgets.ipynb)
+[Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets)
   # Machine Learning with the Experts: School Budgets
 
   - Exploring the raw data
@@ -223,7 +223,7 @@
   - Learning from the experts
 
 <a id='20'></a>
-[Unsupervised Learning in Python](https://github.com/iDataist/Unsupervised-Learning-in-Python/blob/master/Unsupervised_Learning_in_Python.ipynb)
+[Unsupervised Learning in Python](https://github.com/iDataist/Unsupervised-Learning-in-Python)
 
   - Clustering for dataset exploration
 
@@ -234,7 +234,7 @@
   - Discovering interpretable features
 
 <a id='21'></a>
-[Deep Learning in Python](https://github.com/iDataist/Deep-Learning-in-Python/blob/master/Deep_Learning_in_Python.ipynb)
+[Deep Learning in Python](https://github.com/iDataist/Deep-Learning-in-Python)
 
   - Basics of deep learning and neural networks
 
@@ -245,7 +245,7 @@
   - Fine-tuning keras models  
 
 <a id='22'></a>
-[Network Analysis in Python (Part 1)](https://github.com/iDataist/Network-Analysis-in-Python-Part-1/blob/master/Network_Analysis_in_Python_Part_1.ipynb)
+[Network Analysis in Python (Part 1)](https://github.com/iDataist/Network-Analysis-in-Python-Part-1)
 
   - Introduction to networks
 
