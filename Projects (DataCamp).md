@@ -4,7 +4,6 @@
 - [Book Recommendations From Charles Darwin](#1)
 - [Up And Down With The Kardashians](#2)
 
-
 ## Tools
 
 - NumPy, SciPy, pandas

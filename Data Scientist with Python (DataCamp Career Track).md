@@ -28,7 +28,7 @@
 
 - matplotlib, seaborn, Bokeh
 
-- scikit-learn
+- scikit-learn, keras
 
 - NLTK
 
