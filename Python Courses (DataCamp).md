@@ -6,6 +6,7 @@
 - [Customer Segmentation in Python](#2)
 - [Introduction to PySpark](#4)
 - [Natural Language Processing Fundamentals in Python](#1)
+- [Predicting Employee Churn](#5)
 
 ## Tools
 
@@ -67,3 +68,14 @@
   - Named-entity recognition
 
   - Building a "fake news" classifier
+
+<a id='5'></a>
+- [Predicting Employee Churn](https://github.com/iDataist/Predicting-Employee-Churn)
+
+  - Introduction to HR Analytics
+
+  - Predicting employee turnover
+
+  - Evaluating the turnover prediction model
+
+  - Choosing the best turnover prediction model
