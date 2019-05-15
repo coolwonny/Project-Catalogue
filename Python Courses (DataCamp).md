@@ -4,6 +4,7 @@
 
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
+- [Introduction to PySpark](#4)
 - [Natural Language Processing Fundamentals in Python](#1)
 
 ## Tools
@@ -12,7 +13,7 @@
 
 - matplotlib, seaborn, Bokeh
 
-- scikit-learn
+- scikit-learn, PySpark
 
 - NLTK, Spacy
 
@@ -42,6 +43,18 @@
   - Data pre-processing for clustering
 
   - Customer Segmentation with K-means
+
+<a id='4'></a>
+
+[Introduction to PySpark](https://github.com/iDataist/Introduction-to-PySpark)
+
+  - Getting to know PySpark
+
+  - Manipulating data
+
+  - Getting started with machine learning pipelines
+
+  - Model tuning and selection
 
 <a id='1'></a>
 
