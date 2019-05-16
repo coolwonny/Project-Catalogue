@@ -4,6 +4,7 @@
 
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
+- [Fraud Detection in Python](#6)
 - [Introduction to PySpark](#4)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Predicting Employee Churn](#5)
@@ -44,6 +45,18 @@
   - Data pre-processing for clustering
 
   - Customer Segmentation with K-means
+
+<a id='6'></a>
+
+- [Fraud Detection in Python](https://github.com/iDataist/Fraud-Detection-in-Python)
+
+  - Introduction and preparing your data
+
+  - Fraud detection using labelled data
+
+  - Fraud detection using unlabelled data
+
+  - Fraud detection using text
 
 <a id='4'></a>
 
