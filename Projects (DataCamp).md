@@ -5,6 +5,7 @@
 - [Book Recommendations From Charles Darwin](#1)
 - [Dr. Semmelweis and the Discovery of Handwashing](#8)
 - [Exploring 67 years of LEGO](#7)
+- [Exploring the Bitcoin Cryptocurrency Market](#9)
 - [Give Life- Predict Blood Donations](#6)
 - [Predict Stock Trends from News Headlines](#4)
 - [The Android App Market on Google Play](#3)
@@ -35,6 +36,9 @@
 
 <a id='7'></a>
 - [Exploring 67 years of LEGO](https://github.com/iDataist/Exploring-67-years-of-LEGO)
+
+<a id='9'></a>
+- [Exploring the Bitcoin Cryptocurrency Market](https://github.com/iDataist/Exploring-the-Bitcoin-Cryptocurrency-Market)
 
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations)
