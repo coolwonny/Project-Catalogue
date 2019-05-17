@@ -1,6 +1,7 @@
 # Projects (DataCamp)
 
 ## Table of Contents
+- [A Network analysis of Game of Thrones](#5)
 - [Book Recommendations From Charles Darwin](#1)
 - [Predict Stock Trends from News Headlines](#4)
 - [The Android App Market on Google Play](#3)
@@ -19,6 +20,9 @@
 - NetworkX
 
 ## Contents
+
+<a id='5'></a>
+- [Up And Down With The Kardashians](https://github.com/iDataist/A-Network-analysis-of-Game-of-Thrones)
 
 <a id='1'></a>
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin)
