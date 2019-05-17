@@ -2,8 +2,9 @@
 
 ## Table of Contents
 - [A Network analysis of Game of Thrones](#5)
-- [Exploring 67 years of LEGO](#7)
 - [Book Recommendations From Charles Darwin](#1)
+- [Dr. Semmelweis and the Discovery of Handwashing](#8)
+- [Exploring 67 years of LEGO](#7)
 - [Give Life- Predict Blood Donations](#6)
 - [Predict Stock Trends from News Headlines](#4)
 - [The Android App Market on Google Play](#3)
@@ -23,8 +24,14 @@
 
 ## Contents
 
+<a id='5'></a>
+- [A Network analysis of Game of Thrones](https://github.com/iDataist/A-Network-analysis-of-Game-of-Thrones)
+
 <a id='1'></a>
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin)
+
+<a id='8'></a>
+- [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/iDataist/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
 
 <a id='7'></a>
 - [Exploring 67 years of LEGO](https://github.com/iDataist/Exploring-67-years-of-LEGO)
