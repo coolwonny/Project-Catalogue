@@ -8,6 +8,7 @@
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
 - [Give Life- Predict Blood Donations](#6)
 - [Predict Stock Trends from News Headlines](#4)
+- [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
 - [Up And Down With The Kardashians](#2)
 
@@ -45,6 +46,9 @@
 
 <a id='4'></a>
 - [Predict Stock Trends from News Headlines](https://github.com/iDataist/Predict-Stock-Trends-from-News-Headlines)
+
+<a id='10'></a>
+- [Risk and Returns: The Sharpe Ratio](https://github.com/iDataist/Risk-and-Returns--The-Sharpe-Ratio)
 
 <a id='3'></a>
 - [The Android App Market on Google Play](https://github.com/iDataist/The-Android-App-Market-on-Google-Play)
