@@ -5,8 +5,10 @@
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Fraud Detection in Python](#6)
+- [Introduction to MongoDB in Python](#7)
 - [Introduction to PySpark](#4)
 - [Natural Language Processing Fundamentals in Python](#1)
+- [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
 
 ## Tools
@@ -58,6 +60,18 @@
 
   - Fraud detection using text
 
+<a id='7'></a>
+
+- [Introduction to MongoDB in Python](https://github.com/iDataist/Introduction-to-MongoDB-in-Python)
+
+  - Flexibly Structured Data
+
+  - Working with Distinct Values and Sets
+
+  - Get Only What You Need, and Fast
+
+  - Aggregation Pipelines: Let the Server Do It For You
+
 <a id='4'></a>
 
 [Introduction to PySpark](https://github.com/iDataist/Introduction-to-PySpark)
@@ -82,6 +96,17 @@
 
   - Building a "fake news" classifier
 
+<a id='8'></a>
+- [Network Analysis in Python (Part 2)](https://github.com/iDataist/Network-Analysis-in-Python-Part-2)
+
+  - Bipartite graphs & product recommendation systems
+
+  - Graph projections
+
+  - Comparing graphs & time-dynamic graphs
+
+  - Tying it up!
+  
 <a id='5'></a>
 - [Predicting Employee Churn](https://github.com/iDataist/Predicting-Employee-Churn)
 
