@@ -28,26 +28,26 @@
 ## Contents
 
 <a id='10'></a>
-[Advanced Deep Learning with Keras in Python](https://github.com/iDataist/Advanced-Deep-Learning-with-Keras-in-Python). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Advanced Deep Learning with Keras in Python](https://github.com/iDataist/Advanced-Deep-Learning-with-Keras-in-Python). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
 
-- The Keras Functional API
+  - The Keras Functional API
 
-- Two Input Networks Using Categorical Embeddings, Shared Layers, and Merge Layers
+  - Two Input Networks Using Categorical Embeddings, Shared Layers, and Merge Layers
 
-- Multiple Inputs: 3 Inputs (and Beyond!)
+  - Multiple Inputs: 3 Inputs (and Beyond!)
 
-- Multiple Outputs
+  - Multiple Outputs
 
 <a id='9'></a>
-[Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
 
-- Finding words, phrases, names and concepts
+  - Finding words, phrases, names and concepts
 
-- Large-scale data analysis with spaCy
+  - Large-scale data analysis with spaCy
 
-- Processing Pipelines
+  - Processing Pipelines
 
-- Training a neural network model
+  - Training a neural network model
 
 <a id='3'></a>
 
@@ -99,7 +99,7 @@
 
 <a id='4'></a>
 
-[Introduction to PySpark](https://github.com/iDataist/Introduction-to-PySpark)
+- [Introduction to PySpark](https://github.com/iDataist/Introduction-to-PySpark)
 
   - Getting to know PySpark
 
