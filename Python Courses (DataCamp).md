@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Advanced NLP with spaCy](#9)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Fraud Detection in Python](#6)
@@ -24,6 +25,17 @@
 - NetworkX
 
 ## Contents
+<a id='9'></a>
+[Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
+- Finding words, phrases, names and concepts
+
+- Large-scale data analysis with spaCy
+
+- Processing Pipelines
+
+- Training a neural network model
+
 <a id='3'></a>
 
 - [Customer Analytics & A/B Testing in Python](https://github.com/iDataist/Customer-Analytics-and-A-B-Testing-in-Python)
@@ -106,7 +118,7 @@
   - Comparing graphs & time-dynamic graphs
 
   - Tying it up!
-  
+
 <a id='5'></a>
 - [Predicting Employee Churn](https://github.com/iDataist/Predicting-Employee-Churn)
 
