@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Advanced Deep Learning with Keras in Python](#10)
 - [Advanced NLP with spaCy](#9)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
@@ -25,6 +26,18 @@
 - NetworkX
 
 ## Contents
+
+<a id='10'></a>
+[Advanced Deep Learning with Keras in Python](https://github.com/iDataist/Advanced-Deep-Learning-with-Keras-in-Python). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
+- The Keras Functional API
+
+- Two Input Networks Using Categorical Embeddings, Shared Layers, and Merge Layers
+
+- Multiple Inputs: 3 Inputs (and Beyond!)
+
+- Multiple Outputs
+
 <a id='9'></a>
 [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
 
