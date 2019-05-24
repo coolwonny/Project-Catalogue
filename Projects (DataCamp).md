@@ -32,7 +32,7 @@
 
 <a id='1'></a>
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin):
-  Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. This project investigated how closely related his books are to each other. The data analysis is documented in [notebook.ipynb)](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin/blob/master/notebook.ipynb). The raw data files are also stored in the repository.
+  Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. This project investigated how closely related his books are to each other. The data analysis is documented in [notebook.ipynb](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin/blob/master/notebook.ipynb). The raw data files are also stored in the repository.
 
 <a id='8'></a>
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/iDataist/Dr.-Semmelweis-and-the-Discovery-of-Handwashing):
@@ -87,4 +87,4 @@
 
   - Kylie Jenner (daughter of Caitlyn Jenner, born in 1997)
 
-  This project used the Google Trends data to visualize their ups and downs over time. It is is documented in [notebook.ipynb)](https://github.com/iDataist/Up-And-Down-With-The-Kardashians/blob/master/notebook.ipynb). The raw data files are also stored in the repository.
+  This project used the Google Trends data to visualize their ups and downs over time. It is is documented in [notebook.ipynb](https://github.com/iDataist/Up-And-Down-With-The-Kardashians/blob/master/notebook.ipynb). The raw data files are also stored in the repository.
