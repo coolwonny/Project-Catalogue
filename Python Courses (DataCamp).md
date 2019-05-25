@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Advanced Deep Learning with Keras in Python](#10)
+- [Analyzing_Police_Activity_with_pandas](#11)
 - [Advanced NLP with spaCy](#9)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
@@ -37,6 +38,17 @@
   - Multiple Inputs: 3 Inputs (and Beyond!)
 
   - Multiple Outputs
+
+<a id='11'></a>
+- [Analyzing_Police_Activity_with_pandas](https://github.com/iDataist/Analyzing_Police_Activity_with_pandas). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
+  - Preparing the data for analysis
+
+  - Exploring the relationship between gender and policing
+
+  - Visual exploratory data analysis
+
+  - Analyzing the effect of weather on policing
 
 <a id='9'></a>
 - [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
