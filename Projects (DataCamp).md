@@ -8,6 +8,7 @@
 - [Exploring 67 years of LEGO](#7)
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
 - [Give Life- Predict Blood Donations](#6)
+- [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
@@ -56,6 +57,11 @@
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations):
   Blood transfusion saves lives - from replacing lost blood during major surgery or a serious injury to treating various illnesses and blood disorders. Ensuring that there's enough blood in supply whenever needed is a serious challenge for the health professionals. According to WebMD, "about 5 million Americans need a blood transfusion every year". The raw data is from a mobile blood donation vehicle in Taiwan. The Blood Transfusion Service Center drives to different universities and collects blood as part of a blood drive.
+
+<a id='12'></a>  
+- [Predicting Credit Card Approvals](https://github.com/iDataist/Predicting-Credit-Card-Approvals)
+
+  Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. This project built an automatic credit card approval predictor using machine learning techniques.
 
 <a id='4'></a>
 - [Predict Stock Trends from News Headlines](https://github.com/iDataist/Predict-Stock-Trends-from-News-Headlines):
