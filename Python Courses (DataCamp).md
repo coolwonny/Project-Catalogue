@@ -10,6 +10,7 @@
 - [Fraud Detection in Python](#6)
 - [Introduction to MongoDB in Python](#7)
 - [Introduction to PySpark](#4)
+- [Linear Classifiers in Python](#12)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
@@ -121,6 +122,18 @@
 
   - Model tuning and selection
 
+<a id='12'></a>
+
+- [Linear Classifiers in Python](https://github.com/iDataist/Linear-Classifiers-in-Python)
+
+  - Applying logistic regression and SVM
+
+  - Loss functions
+
+  - Logistic regression
+
+  - Support Vector Machines
+  
 <a id='1'></a>
 
 - [Natural Language Processing Fundamentals in Python](https://github.com/iDataist/Natural-Language-Processing-Fundamentals-in-Python)
