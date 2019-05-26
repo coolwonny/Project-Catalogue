@@ -29,15 +29,14 @@
 
 <a id='5'></a>
 - [A Network analysis of Game of Thrones](https://github.com/iDataist/A-Network-analysis-of-Game-of-Thrones):
-  If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular television series by HBO based on the (also) hugely popular book series A Song of Ice and Fire by George R.R. Martin. In this notebook, we will analyze the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. The raw data constitutes a network and is given as a text file describing the edges between characters, with some attributes attached to each edge. The project conducted a network analysis of Game of Thrones. 
+  If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular television series by HBO based on the (also) hugely popular book series A Song of Ice and Fire by George R.R. Martin. In this notebook, we will analyze the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. The raw data constitutes a network and is given as a text file describing the edges between characters, with some attributes attached to each edge. The project conducted a network analysis of Game of Thrones.
 
 <a id='1'></a>
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin):
   Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. This project investigated how closely related his books are to each other.
 
 <a id='11'></a>
-- [Comparing Cosmetics by Ingredients](https://github.com/iDataist/Comparing-Cosmetics-by-Ingredients)
-
+- [Comparing Cosmetics by Ingredients](https://github.com/iDataist/Comparing-Cosmetics-by-Ingredients):
   Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation.
 
   So instead of buying and hoping for the best, why don't we use data science to help us predict which products may be good fits for us? In this notebook, we are going to create a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh.
