@@ -9,6 +9,7 @@
 - [Customer Segmentation in Python](#2)
 - [Fraud Detection in Python](#6)
 - [Introduction to Linear Modeling in Python](#13)
+- [Introduction to Matplotlib](#14)
 - [Introduction to MongoDB in Python](#7)
 - [Introduction to PySpark](#4)
 - [Linear Classifiers in Python](#12)
@@ -110,7 +111,19 @@
   - Making Model Predictions
 
   - Estimating Model Parameters
-  
+
+<a id='14'></a>
+
+- [Introduction to Matplotlib](https://github.com/iDataist/Introduction-to-Matplotlib). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+
+  - Introduction to Matplotlib
+
+  - Plotting time-series
+
+  - Quantitative comparisons and statistical visualizations
+
+  - Sharing visualizations with others
+
 <a id='7'></a>
 
 - [Introduction to MongoDB in Python](https://github.com/iDataist/Introduction-to-MongoDB-in-Python)
