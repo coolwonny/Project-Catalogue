@@ -12,6 +12,7 @@
 - [Introduction to Matplotlib](#14)
 - [Introduction to MongoDB in Python](#7)
 - [Introduction to PySpark](#4)
+- [Introduction to Seaborn](#15)
 - [Linear Classifiers in Python](#12)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
@@ -159,6 +160,18 @@
   - Logistic regression
 
   - Support Vector Machines
+
+<a id='15'></a>  
+
+- [Introduction to Seaborn](https://github.com/iDataist/Introduction-to-Seaborn)
+
+  - Introduction to Seaborn
+
+  - Visualizing Two Quantitative Variables
+
+  - Visualizing a Categorical and a Quantitative Variable
+
+  - Customizing Seaborn Plots
 
 <a id='1'></a>
 
