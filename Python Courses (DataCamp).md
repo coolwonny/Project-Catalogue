@@ -8,6 +8,7 @@
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Fraud Detection in Python](#6)
+- [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
 - [Introduction to Matplotlib](#14)
 - [Introduction to MongoDB in Python](#7)
@@ -100,6 +101,17 @@
   - Fraud detection using unlabelled data
 
   - Fraud detection using text
+
+<a id='16'></a>
+- [Improving Data Visualizations in Python](https://github.com/iDataist/Improving-Data-Visualizations-in-Python)
+
+  - Highlighting your data
+
+  - Using color in your visualizations
+
+  - Showing uncertainty
+
+  - Visualization in the data science workflow
 
 <a id='13'></a>
 
