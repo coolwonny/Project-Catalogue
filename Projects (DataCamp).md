@@ -34,8 +34,7 @@
   If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular television series by HBO based on the (also) hugely popular book series A Song of Ice and Fire by George R.R. Martin. In this notebook, we will analyze the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books. The raw data constitutes a network and is given as a text file describing the edges between characters, with some attributes attached to each edge. The project conducted a network analysis of Game of Thrones.
 
 <a id='13'></a>  
-- [A Visual History of Nobel Prize Winners](https://github.com/iDataist/A-Visual-History-of-Nobel-Prize-Winners)
-
+- [A Visual History of Nobel Prize Winners](https://github.com/iDataist/A-Visual-History-of-Nobel-Prize-Winners):
   The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? This project investigated that. 
 
 <a id='1'></a>
