@@ -14,6 +14,7 @@
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
 - [Up And Down With The Kardashians](#2)
+- [Word Frequency in Moby Dick](#14)
 
 ## Tools
 
@@ -35,7 +36,7 @@
 
 <a id='13'></a>  
 - [A Visual History of Nobel Prize Winners](https://github.com/iDataist/A-Visual-History-of-Nobel-Prize-Winners):
-  The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? This project investigated that. 
+  The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? This project investigated that.
 
 <a id='1'></a>
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin):
@@ -103,3 +104,8 @@
   - Kendall Jenner (daughter of Caitlyn Jenner, born in 1995)
 
   - Kylie Jenner (daughter of Caitlyn Jenner, born in 1997)
+
+<a id='14'></a>
+- [Word Frequency in Moby Dick](https://github.com/iDataist/Word-Frequency-in-Moby-Dick):
+  What are the most frequent words in Herman Melville's novel, Moby Dick, and how often do they occur?
+  This project scraped the novel Moby Dick from the website Project Gutenberg (which contains a large corpus of books) using the Python package requests, extracted words from this web data using BeautifulSoup, and analyzed the distribution of words using the Natural Language ToolKit (nltk). The Data Science pipeline can be used to visualize the word frequency distributions of any novel found on Project Gutenberg.
