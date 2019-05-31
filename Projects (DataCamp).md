@@ -8,6 +8,7 @@
 - [Dr. Semmelweis and the Discovery of Handwashing](#8)
 - [Exploring 67 years of LEGO](#7)
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
+- [Exploring the evolution of Linux](#15)
 - [Give Life- Predict Blood Donations](#6)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
@@ -59,6 +60,11 @@
 <a id='9'></a>
 - [Exploring the Bitcoin Cryptocurrency Market](https://github.com/iDataist/Exploring-the-Bitcoin-Cryptocurrency-Market):
   Since the launch of Bitcoin in 2008, hundreds of similar projects based on the blockchain technology have emerged. We call these cryptocurrencies (also coins or cryptos in the Internet slang). Some are extremely valuable nowadays, and others may have the potential to become extremely valuable in the future1. In fact, on the 6th of December of 2017, Bitcoin has a market capitalization above $200 billion. This project looked into the cryptocurrency market.
+
+<a id='15'></a>
+- [Exploring the evolution of Linux](https://github.com/iDataist/Exploring-the-evolution-of-Linux):
+
+  Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data. 
 
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations):
