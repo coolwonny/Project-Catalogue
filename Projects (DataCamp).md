@@ -1,6 +1,7 @@
 # Projects (DataCamp)
 
 ## Table of Contents
+- [A New Era of Data Analysis in Baseball](#18)
 - [A Network analysis of Game of Thrones](#5)
 - [A Visual History of Nobel Prize Winners](#13)
 - [Book Recommendations From Charles Darwin](#1)
@@ -32,6 +33,13 @@
 - NetworkX
 
 ## Contents
+
+<a id='18'></a>
+- [A New Era of Data Analysis in Baseball](https://github.com/iDataist/A-New-Era-of-Data-Analysis-in-Baseball): 
+
+Aaron Judge is one of the physically largest players in Major League Baseball standing 6 feet 7 inches (2.01 m) tall and weighing 282 pounds (128 kg). He also hit the hardest home run ever recorded. How do we know this? Statcast.
+Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players. Introduced in 2015 to all 30 major league ballparks, Statcast data is revolutionizing the game. Teams are engaging in an "arms race" of data analysis, hiring analysts left and right in an attempt to gain an edge over their competition. This video describing the system is incredible.
+This project wrangled, analyzed, and visualized Statcast data to compare Mr. Judge and another (extremely large) teammate of his.
 
 <a id='5'></a>
 - [A Network analysis of Game of Thrones](https://github.com/iDataist/A-Network-analysis-of-Game-of-Thrones):
@@ -120,7 +128,7 @@
   - Kylie Jenner (daughter of Caitlyn Jenner, born in 1997)
 
 <a id='17'></a>
-- [Who Is Drunk and When in Ames, Iowa?](https://github.com/iDataist/Who-Is-Drunk-and-When-in-Ames-Iowa): 
+- [Who Is Drunk and When in Ames, Iowa?](https://github.com/iDataist/Who-Is-Drunk-and-When-in-Ames-Iowa):
   Ames, Iowa, USA is the home of Iowa State University, a land grant university with over 36,000 students. By comparison, the city of Ames, Iowa, itself only has about 65,000 residents. As with any other college town, Ames has had its fair share of alcohol-related incidents. (For example, Google 'VEISHEA riots 2014'.) This project took a look at some breath alcohol test data from Ames that is published by the State of Iowa.
 
 <a id='14'></a>
