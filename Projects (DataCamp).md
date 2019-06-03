@@ -4,6 +4,7 @@
 - [A Network analysis of Game of Thrones](#5)
 - [A Visual History of Nobel Prize Winners](#13)
 - [Book Recommendations From Charles Darwin](#1)
+- [Classify Song Genres from Audio Data](#16)
 - [Comparing Cosmetics by Ingredients](#11)
 - [Dr. Semmelweis and the Discovery of Handwashing](#8)
 - [Exploring 67 years of LEGO](#7)
@@ -43,6 +44,12 @@
 - [Book Recommendations From Charles Darwin](https://github.com/iDataist/Book-Recommendations-From-Charles-Darwin):
   Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. This project investigated how closely related his books are to each other.
 
+<a id='16'></a>
+- [Classify Song Genres from Audio Data](https://github.com/iDataist/Classify-Song-Genres-from-Audio-Data):
+  Over the past few years, streaming services with huge catalogs have become the primary means through which most people listen to their favorite music. But at the same time, the sheer amount of music on offer can mean users might be a bit overwhelmed when trying to look for newer music that suits their tastes.
+
+  For this reason, streaming services have looked into means of categorizing music to allow for personalized recommendations. One method involves direct analysis of the raw audio information in a given song, scoring the raw data on a variety of metrics. This project examined data compiled by a research group known as The Echo Nest, and classified songs as being either 'Hip-Hop' or 'Rock' - all without listening to a single one. 
+
 <a id='11'></a>
 - [Comparing Cosmetics by Ingredients](https://github.com/iDataist/Comparing-Cosmetics-by-Ingredients):
   Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation.
@@ -64,7 +71,7 @@
 <a id='15'></a>
 - [Exploring the evolution of Linux](https://github.com/iDataist/Exploring-the-evolution-of-Linux):
 
-  Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data. 
+  Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data.
 
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations):
