@@ -7,6 +7,7 @@
 - [Book Recommendations From Charles Darwin](#1)
 - [Classify Song Genres from Audio Data](#16)
 - [Comparing Cosmetics by Ingredients](#11)
+- [Do Left-handed People Really Die Young](#23)
 - [Dr. Semmelweis and the Discovery of Handwashing](#8)
 - [Exploring 67 years of LEGO](#7)
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
@@ -40,10 +41,9 @@
 
 <a id='18'></a>
 - [A New Era of Data Analysis in Baseball](https://github.com/iDataist/A-New-Era-of-Data-Analysis-in-Baseball):
-
-Aaron Judge is one of the physically largest players in Major League Baseball standing 6 feet 7 inches (2.01 m) tall and weighing 282 pounds (128 kg). He also hit the hardest home run ever recorded. How do we know this? Statcast.
-Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players. Introduced in 2015 to all 30 major league ballparks, Statcast data is revolutionizing the game. Teams are engaging in an "arms race" of data analysis, hiring analysts left and right in an attempt to gain an edge over their competition. This video describing the system is incredible.
-This project wrangled, analyzed, and visualized Statcast data to compare Mr. Judge and another (extremely large) teammate of his.
+  Aaron Judge is one of the physically largest players in Major League Baseball standing 6 feet 7 inches (2.01 m) tall and weighing 282 pounds (128 kg). He also hit the hardest home run ever recorded. How do we know this? Statcast.
+  Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players. Introduced in 2015 to all 30 major league ballparks, Statcast data is revolutionizing the game. Teams are engaging in an "arms race" of data analysis, hiring analysts left and right in an attempt to gain an edge over their competition. This video describing the system is incredible.
+  This project wrangled, analyzed, and visualized Statcast data to compare Mr. Judge and another (extremely large) teammate of his.
 
 <a id='5'></a>
 - [A Network analysis of Game of Thrones](https://github.com/iDataist/A-Network-analysis-of-Game-of-Thrones):
@@ -68,6 +68,13 @@ This project wrangled, analyzed, and visualized Statcast data to compare Mr. Jud
   Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation.
 
   So instead of buying and hoping for the best, why don't we use data science to help us predict which products may be good fits for us? In this notebook, we are going to create a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh.
+
+<a id='23'></a>
+- [Do Left-handed People Really Die Young](https://github.com/iDataist/Do-Left-handed-People-Really-Die-Young)
+
+  <p>Barack Obama is left-handed. So are Bill Gates and Oprah Winfrey; so were Babe Ruth and Marie Curie. A <a href="https://www.nejm.org/doi/full/10.1056/NEJM199104043241418">1991 study</a> reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true? </p>
+
+  This project explored this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. It used <code>pandas</code> and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
 
 <a id='8'></a>
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/iDataist/Dr.-Semmelweis-and-the-Discovery-of-Handwashing):
