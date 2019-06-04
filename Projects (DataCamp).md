@@ -13,6 +13,7 @@
 - [Exploring the evolution of Linux](#15)
 - [Generating Keywords for Google Ads](#19)
 - [Give Life- Predict Blood Donations](#6)
+- [Mobile Games A/B Testing with Cookie Cats](#21)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
 - [Risk and Returns: The Sharpe Ratio](#10)
@@ -92,6 +93,15 @@ This project wrangled, analyzed, and visualized Statcast data to compare Mr. Jud
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations):
   Blood transfusion saves lives - from replacing lost blood during major surgery or a serious injury to treating various illnesses and blood disorders. Ensuring that there's enough blood in supply whenever needed is a serious challenge for the health professionals. According to WebMD, "about 5 million Americans need a blood transfusion every year". The raw data is from a mobile blood donation vehicle in Taiwan. The Blood Transfusion Service Center drives to different universities and collects blood as part of a blood drive.
+
+<a id='21'></a>
+- [Mobile Games A/B Testing with Cookie Cats](https://github.com/iDataist/Mobile-Games-A-B-Testing-with-Cookie-Cats):
+
+  Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. We're not kidding! Check out this short demo:
+
+  As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
+
+  But where should the gates be placed? Initially the first gate was placed at level 30, but this project analyzed an AB-test where the first gate in Cookie Cats was moved from level 30 to level 40, and looked at the impact on player retention. 
 
 <a id='12'></a>  
 - [Predicting Credit Card Approvals](https://github.com/iDataist/Predicting-Credit-Card-Approvals)
