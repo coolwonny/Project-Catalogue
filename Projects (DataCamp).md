@@ -11,6 +11,7 @@
 - [Exploring 67 years of LEGO](#7)
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
 - [Exploring the evolution of Linux](#15)
+- [Generating Keywords for Google Ads](#19)
 - [Give Life- Predict Blood Donations](#6)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
@@ -35,7 +36,7 @@
 ## Contents
 
 <a id='18'></a>
-- [A New Era of Data Analysis in Baseball](https://github.com/iDataist/A-New-Era-of-Data-Analysis-in-Baseball): 
+- [A New Era of Data Analysis in Baseball](https://github.com/iDataist/A-New-Era-of-Data-Analysis-in-Baseball):
 
 Aaron Judge is one of the physically largest players in Major League Baseball standing 6 feet 7 inches (2.01 m) tall and weighing 282 pounds (128 kg). He also hit the hardest home run ever recorded. How do we know this? Statcast.
 Statcast is a state-of-the-art tracking system that uses high-resolution cameras and radar equipment to measure the precise location and movement of baseballs and baseball players. Introduced in 2015 to all 30 major league ballparks, Statcast data is revolutionizing the game. Teams are engaging in an "arms race" of data analysis, hiring analysts left and right in an attempt to gain an edge over their competition. This video describing the system is incredible.
@@ -81,6 +82,11 @@ This project wrangled, analyzed, and visualized Statcast data to compare Mr. Jud
 - [Exploring the evolution of Linux](https://github.com/iDataist/Exploring-the-evolution-of-Linux):
 
   Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data.
+
+<a id='19'></a>
+- [Generating Keywords for Google Ads](https://github.com/iDataist/Generating-Keywords-for-Google-Ads):
+
+  This project created a prototype set of keywords for search campaigns for sofas. The client is generally a low-cost retailer, offering many promotions and discounts. We will need to focus on such keywords. We will also need to move away from luxury keywords and topics, as we are targeting price-sensitive customers. Because we are going to be tight on budget, it would be good to focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match.
 
 <a id='6'></a>
 - [Give Life- Predict Blood Donations](https://github.com/iDataist/Give-Life--Predict-Blood-Donations):
