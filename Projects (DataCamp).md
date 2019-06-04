@@ -14,6 +14,7 @@
 - [Generating Keywords for Google Ads](#19)
 - [Give Life- Predict Blood Donations](#6)
 - [Mobile Games A/B Testing with Cookie Cats](#21)
+- [Name Game Gender Prediction using Sound](#22)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
 - [Risk and Returns: The Sharpe Ratio](#10)
@@ -101,7 +102,14 @@ This project wrangled, analyzed, and visualized Statcast data to compare Mr. Jud
 
   As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
 
-  But where should the gates be placed? Initially the first gate was placed at level 30, but this project analyzed an AB-test where the first gate in Cookie Cats was moved from level 30 to level 40, and looked at the impact on player retention. 
+  But where should the gates be placed? Initially the first gate was placed at level 30, but this project analyzed an AB-test where the first gate in Cookie Cats was moved from level 30 to level 40, and looked at the impact on player retention.
+
+<a id='22'></a>
+- [Name Game Gender Prediction using Sound](https://github.com/iDataist/Name-Game-Gender-Prediction-using-Sound):
+
+  Grey and Gray. Colour and Color. Words like these have been the cause of many heated arguments between Brits and Americans. Accents (and jokes) aside, there are many words that are pronounced the same way but have different spellings. While it is easy for us to realize their equivalence, basic programming commands will fail to equate such two strings.
+  More extreme than word spellings are names because people have more flexibility in choosing to spell a name in a certain way. To some extent, tradition sometimes governs the way a name is spelled, which limits the number of variations of any given English name. But if we consider global names and their associated English spellings, you can only imagine how many ways they can be spelled out.
+  One way to tackle this challenge is to write a program that checks if two strings sound the same, instead of checking for equivalence in spellings. This project did that here using fuzzy name matching.
 
 <a id='12'></a>  
 - [Predicting Credit Card Approvals](https://github.com/iDataist/Predicting-Credit-Card-Approvals)
