@@ -55,7 +55,7 @@
   The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? This project investigated that.
 
 <a id='24'></a>
-  - [Bad passwords and the NIST guidelines](https://github.com/iDataist/Bad-passwords-and-the-NIST-guidelines)
+  - [Bad passwords and the NIST guidelines](https://github.com/iDataist/Bad-passwords-and-the-NIST-guidelines):
   This project went through the rules in <a href="https://pages.nist.gov/800-63-3/sp800-63b.html">NIST Special Publication 800-63B</a> which details what checks a <em>verifier</em> (what the NIST calls a second party responsible for storing and verifying passwords) should perform to make sure users don't pick bad passwords. The raw data are the passwords of users from a fictional company.
 
 <a id='1'></a>
