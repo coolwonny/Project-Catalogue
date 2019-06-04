@@ -17,6 +17,7 @@
 - [Predict Stock Trends from News Headlines](#4)
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
+- [TV, Halftime Shows, and the Big Game](#20)
 - [Up And Down With The Kardashians](#2)
 - [Who Is Drunk and When in Ames, Iowa?](#17)
 - [Word Frequency in Moby Dick](#14)
@@ -114,6 +115,16 @@ This project wrangled, analyzed, and visualized Statcast data to compare Mr. Jud
 <a id='3'></a>
 - [The Android App Market on Google Play](https://github.com/iDataist/The-Android-App-Market-on-Google-Play):
   Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. This project looked for insights in the raw data to devise strategies to drive growth and retention.
+
+<a id='20'></a>
+- [TV, Halftime Shows, and the Big Game](https://github.com/iDataist/TV-Halftime-Shows-and-the-Big-Game):
+
+  Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. This project answered questions like:
+
+  What are the most extreme game outcomes?
+  How does the game affect television viewership?
+  How have viewership, TV ratings, and ad cost evolved over time?
+  Who are the most prolific musicians in terms of halftime show performances?
 
 <a id='2'></a>
 - [Up And Down With The Kardashians](https://github.com/iDataist/Up-And-Down-With-The-Kardashians):
