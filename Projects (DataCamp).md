@@ -21,6 +21,7 @@
 - [Predict Stock Trends from News Headlines](#4)
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
+- [The GitHub History of the Scala Language](#25)
 - [TV, Halftime Shows, and the Big Game](#20)
 - [Up And Down With The Kardashians](#2)
 - [Who Is Drunk and When in Ames, Iowa?](#17)
@@ -145,6 +146,16 @@
 <a id='3'></a>
 - [The Android App Market on Google Play](https://github.com/iDataist/The-Android-App-Market-on-Google-Play):
   Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. This project looked for insights in the raw data to devise strategies to drive growth and retention.
+
+<a id='25'></a>
+- [The GitHub History of the Scala Language](https://github.com/iDataist/The-GitHub-History-of-the-Scala-Language):
+
+  With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
+  Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available.
+  This project read in, cleaned up, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). 
+  The dataset we will use, which has been previously mined and extracted directly from GitHub, is comprised of two files:
+  pulls.csv contains the basic information about the pull requests.
+  pull_files.csv contains the files that were modified by each pull request.
 
 <a id='20'></a>
 - [TV, Halftime Shows, and the Big Game](https://github.com/iDataist/TV-Halftime-Shows-and-the-Big-Game):
