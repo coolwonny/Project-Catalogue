@@ -24,6 +24,7 @@
 - [The GitHub History of the Scala Language](#25)
 - [TV, Halftime Shows, and the Big Game](#20)
 - [Up And Down With The Kardashians](#2)
+- [Which Debts Are Worth the Bank's Effort](#26)
 - [Who Is Drunk and When in Ames, Iowa?](#17)
 - [Word Frequency in Moby Dick](#14)
 
@@ -152,7 +153,7 @@
 
   With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
   Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available.
-  This project read in, cleaned up, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). 
+  This project read in, cleaned up, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub).
   The dataset we will use, which has been previously mined and extracted directly from GitHub, is comprised of two files:
   pulls.csv contains the basic information about the pull requests.
   pull_files.csv contains the files that were modified by each pull request.
@@ -184,6 +185,13 @@
   - Kendall Jenner (daughter of Caitlyn Jenner, born in 1995)
 
   - Kylie Jenner (daughter of Caitlyn Jenner, born in 1997)
+
+<a id='26'></a>
+- [Which Debts Are Worth the Bank's Effort](https://github.com/iDataist/Which-Debts-Are-Worth-the-Banks-Effort):
+
+  After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." But that doesn't mean the bank simply walks away from the debt. They still want to collect some of the money they are owed. The bank will score the account to assess the expected recovery amount, that is, the expected amount that the bank may be able to receive from the customer in the future (for a fixed time period such as one year). This amount is a function of the probability of the customer paying, the total debt, and other factors that impact the ability and willingness to pay.
+  The bank has implemented different recovery strategies at different thresholds ($1000, $2000, etc.) where the greater the expected recovery amount, the more effort the bank puts into contacting the customer. For low recovery amounts (Level 0), the bank just adds the customer's contact information to their automatic dialer and emailing system. For higher recovery strategies, the bank incurs more costs as they leverage human resources in more efforts to contact the customer and obtain payments. Each additional level of recovery strategy requires an additional $50 per customer so that customers in the Recovery Strategy Level 1 cost the company $50 more than those in Level 0. Customers in Level 2 cost $50 more than those in Level 1, etc.
+  The big question: does the extra amount that is recovered at the higher strategy level exceed the extra $50 in costs? This project investigated whether there was a jump (also called a "discontinuity") of more than $50 in the amount recovered at the higher strategy level.
 
 <a id='17'></a>
 - [Who Is Drunk and When in Ames, Iowa?](https://github.com/iDataist/Who-Is-Drunk-and-When-in-Ames-Iowa):
