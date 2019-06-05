@@ -14,6 +14,7 @@
 - [Exploring 67 years of LEGO](#7)
 - [Exploring the Bitcoin Cryptocurrency Market](#9)
 - [Exploring the evolution of Linux](#15)
+- [Find Movie Similarity from Plot Summaries](#31)
 - [Generating Keywords for Google Ads](#19)
 - [Give Life- Predict Blood Donations](#6)
 - [Mobile Games A/B Testing with Cookie Cats](#21)
@@ -25,6 +26,7 @@
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
 - [The GitHub History of the Scala Language](#25)
+- [The Hottest Topics in Machine Learning](#30)
 - [TV, Halftime Shows, and the Big Game](#20)
 - [Up And Down With The Kardashians](#2)
 - [Which Debts Are Worth the Bank's Effort](#26)
@@ -61,7 +63,7 @@
 
 <a id='29'></a>  
 - [ASL Recognition with Deep Learning](https://github.com/iDataist/ASL-Recognition-with-Deep-Learning):
-  American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures. A lot of recent progress has been made towards developing computer vision systems that translate sign language to spoken language. This technology often relies on complex neural network architectures that can detect subtle patterns in streaming video. However, as a first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences. This project trained a convolutional neural network to classify images of American Sign Language (ASL) letters. 
+  American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures. A lot of recent progress has been made towards developing computer vision systems that translate sign language to spoken language. This technology often relies on complex neural network architectures that can detect subtle patterns in streaming video. However, as a first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences. This project trained a convolutional neural network to classify images of American Sign Language (ASL) letters.
 
 <a id='24'></a>
   - [Bad passwords and the NIST guidelines](https://github.com/iDataist/Bad-passwords-and-the-NIST-guidelines):
@@ -106,6 +108,13 @@
 - [Exploring the evolution of Linux](https://github.com/iDataist/Exploring-the-evolution-of-Linux):
 
   Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data.
+
+<a id='31'></a>
+- [Find Movie Similarity from Plot Summaries](https://github.com/iDataist/Find-Movie-Similarity-from-Plot-Summaries):
+  We all love watching movies! There are some movies we like, some we don't. Most people have a preference for movies of a similar genre. Some of us love watching action movies, while some of us like watching horror. Some of us like watching movies that have ninjas in them, while some of us like watching superheroes.
+  Movies within a genre often share common base parameters. Consider the following two movies:
+  2001: A Space Odyssey Close Encounters of the Third Kind
+  Both movies, 2001: A Space Odyssey and Close Encounters of the Third Kind, are movies based on aliens coming to Earth. I've seen both, and they indeed share many similarities. We could conclude that both of these fall into the same genre of movies based on intuition, but that's no fun in a data science context. This project quantified the similarity of movies based on their plot summaries available on IMDb and Wikipedia, then separated them into groups, also known as clusters.
 
 <a id='19'></a>
 - [Generating Keywords for Google Ads](https://github.com/iDataist/Generating-Keywords-for-Google-Ads):
@@ -176,6 +185,10 @@
   The dataset we will use, which has been previously mined and extracted directly from GitHub, is comprised of two files:
   pulls.csv contains the basic information about the pull requests.
   pull_files.csv contains the files that were modified by each pull request.
+
+<a id='30'></a>
+- [The Hottest Topics in Machine Learning](https://github.com/iDataist/The-Hottest-Topics-in-Machine-Learning):
+  The NIPS conference (Neural Information Processing Systems) is one of the most prestigious yearly events in the machine learning community. At each NIPS conference, a large number of research papers are published. Over 50,000 PDF files were automatically downloaded and processed to obtain a dataset on various machine learning techniques. These NIPS papers are stored in datasets/papers.csv. The CSV file contains information on the different NIPS papers that were published from 1987 until 2017 (30 years!). These papers discuss a wide variety of topics in machine learning, from neural networks to optimization methods and many more. This project analyzed these papers with natural language processing methods.
 
 <a id='20'></a>
 - [TV, Halftime Shows, and the Big Game](https://github.com/iDataist/TV-Halftime-Shows-and-the-Big-Game):
