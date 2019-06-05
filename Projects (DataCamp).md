@@ -18,7 +18,8 @@
 - [Generating Keywords for Google Ads](#19)
 - [Give Life- Predict Blood Donations](#6)
 - [Mobile Games A/B Testing with Cookie Cats](#21)
-- [Naïve Bees: Predict Species from Images](#32)
+- [Naive Bees: Image Loading and Processing](#33)
+- [Naive Bees: Predict Species from Images](#32)
 - [Name Game Gender Prediction using Sound](#22)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
@@ -135,7 +136,15 @@
 
   But where should the gates be placed? Initially the first gate was placed at level 30, but this project analyzed an AB-test where the first gate in Cookie Cats was moved from level 30 to level 40, and looked at the impact on player retention.
 
-<a id='21'></a>
+<a id='33'></a>
+- [Naive Bees Image Loading and Processing](https://github.com/iDataist/Naive-Bees-Image-Loading-and-Processing):
+  The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.
+
+  Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects.
+
+  This project walked through loading and processing images. After loading and processing these images, they will be ready for building models that can automatically detect honeybees and bumblebees.
+
+<a id='32'></a>
 - [Naïve Bees: Predict Species from Images](https://github.com/iDataist/Naive-Bees-Predict-Species-from-Images):
   Can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions, it can be a challenge for machines to tell them apart.
   Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects. This project built a model that can automatically detect honey bees and bumble bees.
