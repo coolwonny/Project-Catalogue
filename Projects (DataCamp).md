@@ -19,6 +19,8 @@
 - [Name Game Gender Prediction using Sound](#22)
 - [Predicting Credit Card Approvals](#12)
 - [Predict Stock Trends from News Headlines](#4)
+- [Recreating John Snow's Ghost Map](#27)
+- [Reducing Traffic Mortality in the USA](#28)
 - [Risk and Returns: The Sharpe Ratio](#10)
 - [The Android App Market on Google Play](#3)
 - [The GitHub History of the Scala Language](#25)
@@ -133,6 +135,18 @@
 <a id='4'></a>
 - [Predict Stock Trends from News Headlines](https://github.com/iDataist/Predict-Stock-Trends-from-News-Headlines):
   It used to take days for financial news to spread via radio, newspapers, and word of mouth. Now, in the age of the internet, it takes seconds. Did you know news articles are automatically being generated from figures and earnings call streams? Hedge funds and independent traders are using data science to process this wealth of information in the quest for profit. This project generated investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com.
+
+<a id='27'></a>
+- [Recreating John Snow's Ghost Map](https://github.com/iDataist/Recreating-John-Snow-s-Ghost-Map):
+
+  Dr. John Snow (1813-1858) was a famous British physician and is widely recognized as a legendary figure in the history of public health and a leading pioneer in the development of anesthesia. Some even say one of the greatest physicians of all time.
+  As a leading advocate of both anesthesia and hygienic practices in medicine, he not only experimented with ether and chloroform but also designed a mask and method how to administer it. He personally administered chloroform to Queen Victoria during the births of her eighth and ninth children, in 1853 and 1857, which assured a growing public acceptance of the use of anesthetics during childbirth.
+  But, as we will show later, not all his life was just a success. John Snow is now also recognized as one of the founders of modern epidemiology (some also consider him as the founder of data visualization, spatial analysis, data science in general, and many other related fields) for his scientific and pretty modern data approach in identifying the source of a cholera outbreak in Soho, London in 1854, but it wasn't always like this. In fact, for a long time, he was simply ignored by the scientific community and currently is very often mythified. This project reanalyzed the data that he collected in 1854 and recreate his famous map (also called The Ghost Map).
+
+<a id='28'></a>
+- [Reducing Traffic Mortality in the USA](https://github.com/iDataist/Reducing-Traffic-Mortality-in-the-USA):
+  While the rate of fatal road accidents has been decreasing steadily since the 80s, the past ten years have seen a stagnation in this reduction. Coupled with the increase in number of miles driven in the nation, the total number of traffic related-fatalities has now reached a ten year high and is rapidly increasing.
+  Per request of the US Department of Transportation, we are currently investigating how to derive a strategy to reduce the incidence of road accidents across the nation. By looking at the demographics of traﬃc accident victims for each US state, we find that there is a lot of variation between states. Now we want to understand if there are patterns in this variation in order to derive suggestions for a policy action plan. In particular, instead of implementing a costly nation-wide plan we want to focus on groups of states with similar profiles. How can we find such groups in a statistically sound way and communicate the result effectively? This project answered this question.
 
 <a id='10'></a>
 - [Risk and Returns-The Sharpe Ratio](https://github.com/iDataist/Risk-and-Returns--The-Sharpe-Ratio):
