@@ -4,6 +4,7 @@
 - [A New Era of Data Analysis in Baseball](#18)
 - [A Network analysis of Game of Thrones](#5)
 - [A Visual History of Nobel Prize Winners](#13)
+- [ASL Recognition with Deep Learning](#29)
 - [Bad passwords and the NIST guidelines](#24)
 - [Book Recommendations From Charles Darwin](#1)
 - [Classify Song Genres from Audio Data](#16)
@@ -57,6 +58,10 @@
 <a id='13'></a>  
 - [A Visual History of Nobel Prize Winners](https://github.com/iDataist/A-Visual-History-of-Nobel-Prize-Winners):
   The Nobel Prize is perhaps the world's most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? This project investigated that.
+
+<a id='29'></a>  
+- [ASL Recognition with Deep Learning](https://github.com/iDataist/ASL-Recognition-with-Deep-Learning):
+  American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures. A lot of recent progress has been made towards developing computer vision systems that translate sign language to spoken language. This technology often relies on complex neural network architectures that can detect subtle patterns in streaming video. However, as a first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences. This project trained a convolutional neural network to classify images of American Sign Language (ASL) letters. 
 
 <a id='24'></a>
   - [Bad passwords and the NIST guidelines](https://github.com/iDataist/Bad-passwords-and-the-NIST-guidelines):
