@@ -90,10 +90,9 @@
 
 <a id='23'></a>
 - [Do Left-handed People Really Die Young](https://github.com/iDataist/Do-Left-handed-People-Really-Die-Young)
+Barack Obama is left-handed. So are Bill Gates and Oprah Winfrey; so were Babe Ruth and Marie Curie. A <a href="https://www.nejm.org/doi/full/10.1056/NEJM199104043241418">1991 study</a> reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true? 
 
-  <p>Barack Obama is left-handed. So are Bill Gates and Oprah Winfrey; so were Babe Ruth and Marie Curie. A <a href="https://www.nejm.org/doi/full/10.1056/NEJM199104043241418">1991 study</a> reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true? </p>
-
-  This project explored this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. It used <code>pandas</code> and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
+This project explored this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. It used <code>pandas</code> and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
 
 <a id='8'></a>
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/iDataist/Dr.-Semmelweis-and-the-Discovery-of-Handwashing):
@@ -109,7 +108,6 @@
 
 <a id='15'></a>
 - [Exploring the evolution of Linux](https://github.com/iDataist/Exploring-the-evolution-of-Linux):
-
   Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as little message that describes the intention (the "what") of a change. This project analyzed the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. We get some first insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.Linus Torvalds, the (spoiler alert!) main contributor to the Linux kernel (and also the creator of Git), created a mirror of the Linux repository on GitHub. It contains the complete history of kernel development for the last 13 years, and is used as the raw data.
 
 <a id='31'></a>
@@ -121,7 +119,6 @@
 
 <a id='19'></a>
 - [Generating Keywords for Google Ads](https://github.com/iDataist/Generating-Keywords-for-Google-Ads):
-
   This project created a prototype set of keywords for search campaigns for sofas. The client is generally a low-cost retailer, offering many promotions and discounts. We will need to focus on such keywords. We will also need to move away from luxury keywords and topics, as we are targeting price-sensitive customers. Because we are going to be tight on budget, it would be good to focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match.
 
 <a id='6'></a>
@@ -130,7 +127,6 @@
 
 <a id='21'></a>
 - [Mobile Games A/B Testing with Cookie Cats](https://github.com/iDataist/Mobile-Games-A-B-Testing-with-Cookie-Cats):
-
   Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. We're not kidding! Check out this short demo:
 
   As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
@@ -158,14 +154,12 @@
 
 <a id='22'></a>
 - [Name Game Gender Prediction using Sound](https://github.com/iDataist/Name-Game-Gender-Prediction-using-Sound):
-
   Grey and Gray. Colour and Color. Words like these have been the cause of many heated arguments between Brits and Americans. Accents (and jokes) aside, there are many words that are pronounced the same way but have different spellings. While it is easy for us to realize their equivalence, basic programming commands will fail to equate such two strings.
   More extreme than word spellings are names because people have more flexibility in choosing to spell a name in a certain way. To some extent, tradition sometimes governs the way a name is spelled, which limits the number of variations of any given English name. But if we consider global names and their associated English spellings, you can only imagine how many ways they can be spelled out.
   One way to tackle this challenge is to write a program that checks if two strings sound the same, instead of checking for equivalence in spellings. This project did that here using fuzzy name matching.
 
 <a id='12'></a>  
 - [Predicting Credit Card Approvals](https://github.com/iDataist/Predicting-Credit-Card-Approvals)
-
   Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. This project built an automatic credit card approval predictor using machine learning techniques.
 
 <a id='4'></a>
@@ -174,7 +168,6 @@
 
 <a id='27'></a>
 - [Recreating John Snow's Ghost Map](https://github.com/iDataist/Recreating-John-Snow-s-Ghost-Map):
-
   Dr. John Snow (1813-1858) was a famous British physician and is widely recognized as a legendary figure in the history of public health and a leading pioneer in the development of anesthesia. Some even say one of the greatest physicians of all time.
   As a leading advocate of both anesthesia and hygienic practices in medicine, he not only experimented with ether and chloroform but also designed a mask and method how to administer it. He personally administered chloroform to Queen Victoria during the births of her eighth and ninth children, in 1853 and 1857, which assured a growing public acceptance of the use of anesthetics during childbirth.
   But, as we will show later, not all his life was just a success. John Snow is now also recognized as one of the founders of modern epidemiology (some also consider him as the founder of data visualization, spatial analysis, data science in general, and many other related fields) for his scientific and pretty modern data approach in identifying the source of a cholera outbreak in Soho, London in 1854, but it wasn't always like this. In fact, for a long time, he was simply ignored by the scientific community and currently is very often mythified. This project reanalyzed the data that he collected in 1854 and recreate his famous map (also called The Ghost Map).
@@ -200,7 +193,6 @@
 
 <a id='25'></a>
 - [The GitHub History of the Scala Language](https://github.com/iDataist/The-GitHub-History-of-the-Scala-Language):
-
   With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
   Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- publicly available.
   This project read in, cleaned up, and visualized the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub).
@@ -214,7 +206,6 @@
 
 <a id='20'></a>
 - [TV, Halftime Shows, and the Big Game](https://github.com/iDataist/TV-Halftime-Shows-and-the-Big-Game):
-
   Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes riding giant mechanical tigers or leaping from the roof of the stadium. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. This project answered questions like:
 
   What are the most extreme game outcomes?
@@ -242,7 +233,6 @@
 
 <a id='26'></a>
 - [Which Debts Are Worth the Bank's Effort](https://github.com/iDataist/Which-Debts-Are-Worth-the-Banks-Effort):
-
   After a debt has been legally declared "uncollectable" by a bank, the account is considered to be "charged-off." But that doesn't mean the bank simply walks away from the debt. They still want to collect some of the money they are owed. The bank will score the account to assess the expected recovery amount, that is, the expected amount that the bank may be able to receive from the customer in the future (for a fixed time period such as one year). This amount is a function of the probability of the customer paying, the total debt, and other factors that impact the ability and willingness to pay.
   The bank has implemented different recovery strategies at different thresholds ($1000, $2000, etc.) where the greater the expected recovery amount, the more effort the bank puts into contacting the customer. For low recovery amounts (Level 0), the bank just adds the customer's contact information to their automatic dialer and emailing system. For higher recovery strategies, the bank incurs more costs as they leverage human resources in more efforts to contact the customer and obtain payments. Each additional level of recovery strategy requires an additional $50 per customer so that customers in the Recovery Strategy Level 1 cost the company $50 more than those in Level 0. Customers in Level 2 cost $50 more than those in Level 1, etc.
   The big question: does the extra amount that is recovered at the higher strategy level exceed the extra $50 in costs? This project investigated whether there was a jump (also called a "discontinuity") of more than $50 in the amount recovered at the higher strategy level.
