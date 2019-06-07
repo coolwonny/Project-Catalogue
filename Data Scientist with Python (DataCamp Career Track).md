@@ -22,6 +22,7 @@
 - [Deep Learning in Python](#21)
 - [Network Analysis in Python (Part 1)](#22)
 - [Introduction to Shell for Data Science](#23)
+- [Conda Essentials](#24)
 
 ## Tools
 
@@ -267,3 +268,14 @@
   - Batch processing
 
   - Creating new tools
+
+  <a id='23'></a>
+  [Conda Essentials](https://github.com/iDataist/Conda-Essentials)
+
+  - Installing Packages
+
+  - Utilizing Channels
+
+  - Working with Environments
+
+  - Case Study on Using Environments
