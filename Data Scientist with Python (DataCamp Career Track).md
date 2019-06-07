@@ -21,6 +21,7 @@
 - [Unsupervised Learning in Python](#20)
 - [Deep Learning in Python](#21)
 - [Network Analysis in Python (Part 1)](#22)
+- [Introduction to Shell for Data Science](#23)
 
 ## Tools
 
@@ -253,3 +254,16 @@
   - Structures
 
   - Case Study
+
+<a id='23'></a>
+[Introduction to Shell for Data Science](https://github.com/iDataist/Introduction-to-Shell-for-Data-Science)
+
+  - Manipulating files and directories
+
+  - Manipulating data
+
+  - Combining tools
+
+  - Batch processing
+
+  - Creating new tools
