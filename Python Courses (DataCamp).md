@@ -18,6 +18,7 @@
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
+- [Statistical Simulation in Python](#17)
 
 ## Tools
 
@@ -218,3 +219,14 @@
   - Evaluating the turnover prediction model
 
   - Choosing the best turnover prediction model
+
+<a id='17'></a>
+- [Statistical Simulation in Python](https://github.com/iDataist/Statistical-Simulation-in-Python)
+
+  - Basics of randomness & simulation
+
+  - Probability & data generation process
+
+  - Resampling methods
+
+  - Advanced Applications of Simulation
