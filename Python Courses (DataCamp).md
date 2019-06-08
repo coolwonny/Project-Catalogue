@@ -5,6 +5,7 @@
 - [Advanced Deep Learning with Keras in Python](#10)
 - [Analyzing_Police_Activity_with_pandas](#11)
 - [Advanced NLP with spaCy](#9)
+- [Case Studies in Statistical Thinking](#18)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Fraud Detection in Python](#6)
@@ -35,7 +36,7 @@
 ## Contents
 
 <a id='10'></a>
-- [Advanced Deep Learning with Keras in Python](https://github.com/iDataist/Advanced-Deep-Learning-with-Keras-in-Python). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Advanced Deep Learning with Keras in Python](https://github.com/iDataist/Advanced-Deep-Learning-with-Keras-in-Python)
 
   - The Keras Functional API
 
@@ -46,7 +47,7 @@
   - Multiple Outputs
 
 <a id='11'></a>
-- [Analyzing_Police_Activity_with_pandas](https://github.com/iDataist/Analyzing_Police_Activity_with_pandas). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Analyzing_Police_Activity_with_pandas](https://github.com/iDataist/Analyzing_Police_Activity_with_pandas)
 
   - Preparing the data for analysis
 
@@ -57,7 +58,7 @@
   - Analyzing the effect of weather on policing
 
 <a id='9'></a>
-- [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy)
 
   - Finding words, phrases, names and concepts
 
@@ -66,6 +67,19 @@
   - Processing Pipelines
 
   - Training a neural network model
+
+<a id='18'></a>
+- [Case Studies in Statistical Thinking](https://github.com/iDataist/Case-Studies-in-Statistical-Thinking)
+
+  - Fish sleep and bacteria growth: A review of Statistical Thinking I and II
+
+  - Analysis of results of the 2015 FINA World Swimming Championships
+
+  - The "Current Controversy" of the 2013 World Championships
+
+  - Statistical seismology and the Parkfield region
+
+  - Earthquakes and oil mining in Oklahoma
 
 <a id='3'></a>
 
@@ -116,7 +130,7 @@
 
 <a id='13'></a>
 
-- [Introduction to Linear Modeling in Python](https://github.com/iDataist/Introduction-to-Linear-Modeling-in-Python). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Introduction to Linear Modeling in Python](https://github.com/iDataist/Introduction-to-Linear-Modeling-in-Python)
 
   - Exploring Linear Trends
 
@@ -128,7 +142,7 @@
 
 <a id='14'></a>
 
-- [Introduction to Matplotlib](https://github.com/iDataist/Introduction-to-Matplotlib). The lecture notes and the raw data files are also stored in the repository. The summary of the content is shown below:
+- [Introduction to Matplotlib](https://github.com/iDataist/Introduction-to-Matplotlib)
 
   - Introduction to Matplotlib
 
