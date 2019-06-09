@@ -20,6 +20,7 @@
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
 - [Statistical Simulation in Python](#17)
+- [Visualizing Geospatial Data in Python](#19)
 
 ## Tools
 
@@ -244,3 +245,14 @@
   - Resampling methods
 
   - Advanced Applications of Simulation
+
+<a id='19'></a>
+- [Visualizing Geospatial Data in Python](https://github.com/iDataist/Visualizing-Geospatial-Data-in-Python)
+
+  - Building 2-layer maps : combining polygons and scatterplots
+
+  - Creating and joining GeoDataFrames
+
+  - GeoSeries and folium
+
+  - Creating a choropleth building permit density in Nashville
