@@ -16,6 +16,7 @@
 - [Introduction to PySpark](#4)
 - [Introduction to Seaborn](#15)
 - [Linear Classifiers in Python](#12)
+- [Machine Learning with Apache Spark](#20)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
@@ -200,6 +201,18 @@
   - Visualizing a Categorical and a Quantitative Variable
 
   - Customizing Seaborn Plots
+
+<a id='20'></a>
+
+- [Machine Learning with Apache Spark](https://github.com/iDataist/Machine-Learning-with-Apache-Spark)
+
+  - Introduction
+
+  - Classification
+
+  - Regression
+
+  - Ensembles & Pipelines
 
 <a id='1'></a>
 
