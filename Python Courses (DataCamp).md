@@ -9,6 +9,7 @@
 - [Case Studies in Statistical Thinking](#18)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
+- [Data Types for Data Science](#23)
 - [Fraud Detection in Python](#6)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
@@ -119,6 +120,19 @@
   - Data pre-processing for clustering
 
   - Customer Segmentation with K-means
+
+<a id='23'></a>
+- [Data Types for Data Science](https://github.com/iDataist/Data-Types-for-Data-Science)
+
+  - Fundamental data types
+
+  - Dictionaries - the root of Python
+
+  - Meet the collections module
+
+  - Handling Dates and Times
+
+  - Answering Data Science Questions
 
 <a id='6'></a>
 
