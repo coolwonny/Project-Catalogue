@@ -16,6 +16,7 @@
 - [Introduction to MongoDB in Python](#7)
 - [Introduction to PySpark](#4)
 - [Introduction to Seaborn](#15)
+- [Introduction to Spark SQL with Python](#22)
 - [Linear Classifiers in Python](#12)
 - [Machine Learning with Apache Spark](#20)
 - [Natural Language Processing Fundamentals in Python](#1)
@@ -213,6 +214,17 @@
   - Visualizing a Categorical and a Quantitative Variable
 
   - Customizing Seaborn Plots
+
+<a id='22'></a>
+- [Introduction to Spark SQL with Python](https://github.com/iDataist/Introduction-to-Spark-SQL-with-Python)
+
+  - Pyspark SQL
+
+  - Using window function sql for natural language processing
+
+  - Caching, Logging, and the Spark UI
+
+  - Text classification
 
 <a id='20'></a>
 
