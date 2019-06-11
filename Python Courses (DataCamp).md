@@ -5,6 +5,7 @@
 - [Advanced Deep Learning with Keras in Python](#10)
 - [Analyzing_Police_Activity_with_pandas](#11)
 - [Advanced NLP with spaCy](#9)
+- [Big Data Fundamentals via PySpark](#21)
 - [Case Studies in Statistical Thinking](#18)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
@@ -69,6 +70,17 @@
   - Processing Pipelines
 
   - Training a neural network model
+
+<a id='21'></a>
+- [Big Data Fundamentals via PySpark](https://github.com/iDataist/Big-Data-Fundamentals-via-PySpark)
+
+  - Introduction to Big Data analysis with Spark
+
+  - Programming in PySpark RDD’s
+
+  - PySpark SQL & DataFrames
+
+  - Machine Learning with PySpark MLlib
 
 <a id='18'></a>
 - [Case Studies in Statistical Thinking](https://github.com/iDataist/Case-Studies-in-Statistical-Thinking)
