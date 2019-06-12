@@ -25,6 +25,7 @@
 - [Predicting Employee Churn](#5)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
+- [Writing Efficient Python Code](#24)
 
 ## Tools
 
@@ -307,3 +308,14 @@
   - GeoSeries and folium
 
   - Creating a choropleth building permit density in Nashville
+
+<a id='24'></a>
+- [Writing Efficient Python Code](https://github.com/iDataist/Writing-Efficient-Python-Code)
+
+  - Foundations for efficiencies
+
+  - Timing and profiling code
+
+  - Gaining efficiencies
+
+  - Basic pandas optimizations
