@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Advanced Deep Learning with Keras in Python](#10)
-- [Analyzing_Police_Activity_with_pandas](#11)
+- [Analyzing Marketing Campaigns with pandas](#25)
+- [Analyzing Police Activity with pandas](#11)
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
 - [Case Studies in Statistical Thinking](#18)
@@ -51,6 +52,17 @@
   - Multiple Inputs: 3 Inputs (and Beyond!)
 
   - Multiple Outputs
+
+<a id='25'></a>
+- [Analyzing Marketing Campaigns with pandas](https://github.com/iDataist/Analyzing-Marketing-Campaigns-with-pandas/blob/master/Analyzing_Marketing_Campaigns_with_pandas.ipynb)
+
+  - Pandas
+
+  - Exploratory Analysis & Summary Statistics
+
+  - Conversion Attribution
+
+  - Personalization A/B Test
 
 <a id='11'></a>
 - [Analyzing_Police_Activity_with_pandas](https://github.com/iDataist/Analyzing_Police_Activity_with_pandas)
