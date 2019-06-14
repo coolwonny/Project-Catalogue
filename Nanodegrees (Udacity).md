@@ -72,21 +72,25 @@
 
 - **Data Modeling**
 
-    - [Introduction to Data Modeling](https://github.com/iDataist/Introduction-to-Data-Modeling): Explore the difference between relational and non-relational databases, and how each type of databases fits the diverse needs of data consumers
+    - [Introduction to Data Modeling](https://github.com/iDataist/Introduction-to-Data-Modeling): Explored the difference between relational and non-relational databases, and how each type of databases fits the diverse needs of data consumers
 
-    - [Relational Data Models](https://github.com/iDataist/Relational-Data-Models): Create schemas and tables in Postgres
+    - [Relational Data Models](https://github.com/iDataist/Relational-Data-Models): Created schemas and tables in Postgres
 
-    - [NoSQL Data Models](https://github.com/iDataist/NoSQL-Data-Models): Create tables in Apache Cassandra
+    - [NoSQL Data Models](https://github.com/iDataist/NoSQL-Data-Models): Created tables in Apache Cassandra
 
     - [Data Modeling with Postgres and Apache Cassandra](https://github.com/iDataist/Data-Engineering/tree/master/1.%20Data-Modeling-with-Postgres-and-Apache-Cassandra): Created a database and ETL pipeline in Postgres and Apache Cassandra
 
 - **Cloud Data Warehouses**
 
-    - [Introduction-to-Data-Warehouse](https://github.com/iDataist/Introduction-to-Data-Warehouse): Explore data warehouse, the Cloud and AWS 
+    - [Introduction-to-Data-Warehouse](https://github.com/iDataist/Introduction-to-Data-Warehouse): Explored data warehouse, the Cloud and AWS
 
     - [Data Infrastructure on the Cloud](https://github.com/iDataist/Data-Engineering/tree/master/2.%20Data-Infrastructure-on-the-Cloud): Built an ETL pipeline that extracts the data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for the analytics team
 
 - **Data Lakes with Spark**
+
+    - [Data Wrangling with Spark](https://github.com/iDataist/Data-Wrangling-with-Spark): Used Spark to clean and aggregate data
+
+    - [Introduction to Data Lakes](https://github.com/iDataist/Introduction-to-Data-Lakes): Implemented data lakes on AWS
 
     - [Big Data with Spark](https://github.com/iDataist/Data-Engineering/tree/master/3.%20Big-Data-with-Spark): Built an ETL pipeline for a data lake that loads data from S3, processes the data into analytics tables using Spark, and loads them back into S3; deployed this process on a cluster using AWS
 
