@@ -26,6 +26,7 @@
 - [Predicting Employee Churn](#5)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
+- [Working with Dates and Times in Python](#26)
 - [Writing Efficient Python Code](#24)
 
 ## Tools
@@ -320,6 +321,17 @@
   - GeoSeries and folium
 
   - Creating a choropleth building permit density in Nashville
+
+<a id='26'></a>
+- [Working with Dates and Times in Python](https://github.com/iDataist/Working-with-Dates-and-Times-in-Python)
+
+  - Dates and Calendars
+
+  - Combining Dates and Times
+
+  - Time Zones and Daylight Saving
+
+  - Easy and Powerful: Dates and Times in Pandas
 
 <a id='24'></a>
 - [Writing Efficient Python Code](https://github.com/iDataist/Writing-Efficient-Python-Code)
