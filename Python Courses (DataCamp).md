@@ -11,6 +11,7 @@
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Data Types for Data Science](#23)
+- [Data Visualization with Seaborn](#27)
 - [Fraud Detection in Python](#6)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
@@ -134,6 +135,17 @@
   - Data pre-processing for clustering
 
   - Customer Segmentation with K-means
+
+<a id='27'></a>
+- [Data Visualization with Seaborn](https://github.com/iDataist/Data-Visualization-with-Seaborn)
+
+  - Seaborn Introduction
+
+  - Customizing Seaborn Plots
+
+  - Additional Plot Types
+
+  - Creating Plots on Data Aware Grids
 
 <a id='23'></a>
 - [Data Types for Data Science](https://github.com/iDataist/Data-Types-for-Data-Science)
