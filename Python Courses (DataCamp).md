@@ -27,6 +27,7 @@
 - [Predicting Employee Churn](#5)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
+- [Visualizing Time Series Data in Python](#28)
 - [Working with Dates and Times in Python](#26)
 - [Writing Efficient Python Code](#24)
 
@@ -333,6 +334,19 @@
   - GeoSeries and folium
 
   - Creating a choropleth building permit density in Nashville
+
+<a id='28'></a>
+- [Visualizing Time Series Data in Python](https://github.com/iDataist/Visualizing-Time-Series-Data-in-Python)
+
+  - Introduction
+
+  - Summary Statistics and Diagnostics
+
+  - Seasonality, Trend and Noise
+
+  - Work with Multiple Time Series
+
+  - Case Study
 
 <a id='26'></a>
 - [Working with Dates and Times in Python](https://github.com/iDataist/Working-with-Dates-and-Times-in-Python)
