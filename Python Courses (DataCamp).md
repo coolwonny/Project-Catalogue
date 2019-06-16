@@ -5,6 +5,7 @@
 - [Advanced Deep Learning with Keras in Python](#10)
 - [Analyzing Marketing Campaigns with pandas](#25)
 - [Analyzing Police Activity with pandas](#11)
+- [Analyzing US Census Data in Python](#30)
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
 - [Case Studies in Statistical Thinking](#18)
@@ -78,6 +79,17 @@
   - Visual exploratory data analysis
 
   - Analyzing the effect of weather on policing
+
+<a id='30'></a>
+- [Analyzing US Census Data in Python](https://github.com/iDataist/Analyzing-US-Census-Data-in-Python)
+
+  - Decennial Census of Population and Housin
+
+  - American Community Survey
+
+  - Measuring Segregation
+
+  - Exploring Census Topics
 
 <a id='9'></a>
 - [Advanced NLP with spaCy](https://github.com/iDataist/Advanced-NLP-with-spaCy)
