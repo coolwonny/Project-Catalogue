@@ -12,6 +12,7 @@
 - [Customer Segmentation in Python](#2)
 - [Data Types for Data Science](#23)
 - [Data Visualization with Seaborn](#27)
+- [Exploratory Data Analysis in Python](#29)
 - [Fraud Detection in Python](#6)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
@@ -160,6 +161,17 @@
   - Handling Dates and Times
 
   - Answering Data Science Questions
+
+<a id='29'></a>
+- [Exploratory Data Analysis in Python](https://github.com/iDataist/Exploratory-Data-Analysis-in-Python)
+
+  - Read, clean, and validate
+
+  - Distributions
+
+  - Relationships
+
+  - Multivariate Thinking
 
 <a id='6'></a>
 
