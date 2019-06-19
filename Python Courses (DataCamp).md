@@ -31,6 +31,7 @@
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
+- [Web Scraping in Python](#32)
 - [Working with Dates and Times in Python](#26)
 - [Writing Efficient Python Code](#24)
 
@@ -383,6 +384,17 @@
   - Work with Multiple Time Series
 
   - Case Study
+
+<a id='32'></a>
+- [Web Scraping in Python](https://github.com/iDataist/Web-Scraping-in-Python)
+
+  - Introduction to HTML
+
+  - XPaths and Selectors
+
+  - CSS Locators, Chaining, and Responses
+
+  - Spiders
 
 <a id='26'></a>
 - [Working with Dates and Times in Python](https://github.com/iDataist/Working-with-Dates-and-Times-in-Python)
