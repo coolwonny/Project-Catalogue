@@ -14,6 +14,7 @@
 - [Data Types for Data Science](#23)
 - [Data Visualization with Seaborn](#27)
 - [Exploratory Data Analysis in Python](#29)
+- [Foundations of Probability in Python](#31)
 - [Fraud Detection in Python](#6)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
@@ -184,6 +185,17 @@
   - Relationships
 
   - Multivariate Thinking
+
+<a id='31'></a>
+- [Foundations of Probability in Python](https://github.com/iDataist/Foundations-of-Probability-in-Python)
+
+  - Let's start flipping coins
+
+  - Calculate some probabilities
+
+  - Important probability distributions
+
+  - Probability meets statistics
 
 <a id='6'></a>
 
