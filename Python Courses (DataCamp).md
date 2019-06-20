@@ -28,6 +28,7 @@
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
+- [Preparing for Statistics Interview Questions in Python](#33)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
@@ -349,6 +350,17 @@
   - Evaluating the turnover prediction model
 
   - Choosing the best turnover prediction model
+
+<a id='33'></a>
+- [Preparing for Statistics Interview Questions in Python](https://github.com/iDataist/Preparing-for-Statistics-Interview-Questions-in-Python)
+
+  - Probability and Sampling Distributions
+
+  - Exploratory Data Analysis
+
+  - Statistical Experiments and Significance Testing
+
+  - Regression and Classification
 
 <a id='17'></a>
 - [Statistical Simulation in Python](https://github.com/iDataist/Statistical-Simulation-in-Python)
