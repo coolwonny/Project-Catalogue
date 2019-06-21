@@ -96,6 +96,12 @@
 
 - **Automate Data Pipelines**
 
+    - [Data Pipelines](https://github.com/iDataist/Data-Pipelines): Used Apache Airflow to configure and schedule data pipelines
+
+    - [Data Quality]
+
+    - [Production Data Pipelines]
+
     - [Data Pipelines with Airflow](https://github.com/iDataist/Data-Engineering/tree/master/4.%20Data%20Pipelines%20with%20Airflow): Improved the data infrastructure by creating and automating a set of data pipelines; used Airflow to configure/schedule data pipelines and to monitor/debug production pipelines
 
 - **Capstone Project**
