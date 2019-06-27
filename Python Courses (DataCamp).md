@@ -29,6 +29,7 @@
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
 - [Preparing for Statistics Interview Questions in Python](#33)
+- [Regular Expressions in Python](#34)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
@@ -361,6 +362,17 @@
   - Statistical Experiments and Significance Testing
 
   - Regression and Classification
+
+<a id='34'></a>
+- [Regular Expressions in Python](https://github.com/iDataist/Regular-Expressions-in-Python)
+
+  - Basic Concepts of String Manipulation
+
+  - Formatting Strings
+
+  - Regular Expressions for Pattern Matching
+
+  - Advanced Regular Expression Concepts
 
 <a id='17'></a>
 - [Statistical Simulation in Python](https://github.com/iDataist/Statistical-Simulation-in-Python)
