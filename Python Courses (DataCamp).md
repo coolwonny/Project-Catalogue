@@ -5,6 +5,7 @@
 - [Advanced Deep Learning with Keras in Python](#10)
 - [Analyzing Marketing Campaigns with pandas](#25)
 - [Analyzing Police Activity with pandas](#11)
+- [Analyzing Social Media Data in Python](#35)
 - [Analyzing US Census Data in Python](#30)
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
@@ -83,6 +84,17 @@
   - Visual exploratory data analysis
 
   - Analyzing the effect of weather on policing
+
+<a id='35'></a>
+- [Analyzing Social Media Data in Python](https://github.com/iDataist/Analyzing-Social-Media-Data-in-Python)
+
+  - Basics of Analyzing Twitter Data
+
+  - Processing Twitter text
+
+  - Twitter Networks
+
+  - Putting Twitter data on the map
 
 <a id='30'></a>
 - [Analyzing US Census Data in Python](https://github.com/iDataist/Analyzing-US-Census-Data-in-Python)
