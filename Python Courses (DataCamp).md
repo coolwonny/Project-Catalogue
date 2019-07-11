@@ -15,6 +15,7 @@
 - [Data Types for Data Science](#23)
 - [Data Visualization with Seaborn](#27)
 - [Exploratory Data Analysis in Python](#29)
+- [Financial Forecasting in Python](#36)
 - [Foundations of Probability in Python](#31)
 - [Fraud Detection in Python](#6)
 - [Improving Data Visualizations in Python](#16)
@@ -200,6 +201,17 @@
   - Relationships
 
   - Multivariate Thinking
+
+<a id='36'></a>
+- [Financial Forecasting in Python](https://github.com/iDataist/Financial-Forecasting-in-Python/blob/master/Financial_Forecasting_in_Python.ipynb)
+
+  - Income statements
+
+  - Balance sheet and forecast ratios
+
+  - Formatting raw data, managing dates and financial periods
+
+  - Assumptions and variances in forecasts
 
 <a id='31'></a>
 - [Foundations of Probability in Python](https://github.com/iDataist/Foundations-of-Probability-in-Python)
