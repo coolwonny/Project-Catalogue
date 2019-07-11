@@ -98,7 +98,7 @@
 
     - [Data Pipelines](https://github.com/iDataist/Data-Pipelines): Used Apache Airflow to configure and schedule data pipelines
 
-    - [Data Quality]
+    - [Data Quality](https://github.com/iDataist/Data-Quality): Tracked data lineage, set up data pipeline schedules, and partitioned data to optimize pipelines
 
     - [Production Data Pipelines]
 
