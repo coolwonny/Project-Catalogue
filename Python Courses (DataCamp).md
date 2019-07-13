@@ -15,6 +15,7 @@
 - [Data Types for Data Science](#23)
 - [Data Visualization with Seaborn](#27)
 - [Deep Learning with PyTorch](#37)
+- [Dimensionality Reduction in Python](#38)
 - [Exploratory Data Analysis in Python](#29)
 - [Financial Forecasting in Python](#36)
 - [Foundations of Probability in Python](#31)
@@ -202,7 +203,18 @@
   - Convolutional Neural Networks (CNNs)
 
   - Using Convolutional Neural Networks
-  
+
+<a id='38'></a>
+- [Dimensionality Reduction in Python](https://github.com/iDataist/Dimensionality-Reduction-in-Python)
+
+  - Exploring high dimensional data
+
+  - Feature selection I, selecting for feature information
+
+  - Feature selection II, selecting for model accuracy
+
+  - Feature extraction
+
 <a id='29'></a>
 - [Exploratory Data Analysis in Python](https://github.com/iDataist/Exploratory-Data-Analysis-in-Python)
 
