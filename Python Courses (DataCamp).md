@@ -28,11 +28,15 @@
 - [Introduction to Seaborn](#15)
 - [Introduction to Spark SQL with Python](#22)
 - [Linear Classifiers in Python](#12)
+- [Machine Learning for Finance in Python](#39)
 - [Machine Learning with Apache Spark](#20)
+- [Machine Learning with Tree Based Models in Python](#42)
+- [Model Validation in Python](#40)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
 - [Preparing for Statistics Interview Questions in Python](#33)
+- [Preprocessing for Machine Learning in Python](#41)
 - [Regular Expressions in Python](#34)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
@@ -354,8 +358,18 @@
 
   - Text classification
 
-<a id='20'></a>
+<a id='39'></a>
+- [Machine Learning for Finance in Python](https://github.com/iDataist/Machine-Learning-for-Finance-in-Python)
 
+  - Preparing data and a linear model
+
+  - Machine learning tree methods
+
+  - Neural networks and KNN
+
+  - Machine learning with modern portfolio theory
+
+<a id='20'></a>
 - [Machine Learning with Apache Spark](https://github.com/iDataist/Machine-Learning-with-Apache-Spark)
 
   - Introduction
@@ -365,6 +379,30 @@
   - Regression
 
   - Ensembles & Pipelines
+
+<a id='42'></a>
+- [Machine Learning with Tree Based Models in Python](https://github.com/iDataist/Machine-Learning-with-Tree-Based-Models-in-Python)
+
+  - Classification and Regression Trees
+
+  - The Bias-Variance Tradeoff
+
+  - Bagging and Random Forests
+
+  - Boosting
+
+  - Model Tuning
+
+<a id='40'></a>
+- [Model Validation in Python](https://github.com/iDataist/Model-Validation-in-Python)
+
+  - Basic Modeling in scikit-learn
+
+  - Validation Basics
+
+  - Cross Validation
+
+  - Selecting the best model with Hyperparameter tuning
 
 <a id='1'></a>
 
@@ -410,6 +448,19 @@
   - Statistical Experiments and Significance Testing
 
   - Regression and Classification
+
+<a id='41'></a>
+- [Preprocessing for Machine Learning in Python](https://github.com/iDataist/Preprocessing-for-Machine-Learning-in-Python)
+
+  - Introduction to Data Preprocessing
+
+  - Standardizing Data
+
+  - Feature Engineering
+
+  - Selecting features for modeling
+
+  - Putting it all together
 
 <a id='34'></a>
 - [Regular Expressions in Python](https://github.com/iDataist/Regular-Expressions-in-Python)
