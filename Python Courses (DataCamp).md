@@ -29,6 +29,7 @@
 - [Introduction to Spark SQL with Python](#22)
 - [Linear Classifiers in Python](#12)
 - [Machine Learning for Finance in Python](#39)
+- [Machine Learning for Time Series Data in Python](#43)
 - [Machine Learning with Apache Spark](#20)
 - [Machine Learning with Tree Based Models in Python](#42)
 - [Model Validation in Python](#40)
@@ -368,6 +369,17 @@
   - Neural networks and KNN
 
   - Machine learning with modern portfolio theory
+
+<a id='43'></a>
+- [Machine Learning for Time Series Data in Python](https://github.com/iDataist/Machine-Learning-for-Time-Series-Data-in-Python)
+
+  - Time Series and Machine Learning Primer
+
+  - Time Series as Inputs to a Model
+
+  - Predicting Time Series Data
+
+  - Validating and Inspecting Time Series Models
 
 <a id='20'></a>
 - [Machine Learning with Apache Spark](https://github.com/iDataist/Machine-Learning-with-Apache-Spark)
