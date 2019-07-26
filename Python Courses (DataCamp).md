@@ -16,6 +16,7 @@
 - [Data Visualization with Seaborn](#27)
 - [Deep Learning with PyTorch](#37)
 - [Dimensionality Reduction in Python](#38)
+- [Ensemble Methods in Python](#44)
 - [Exploratory Data Analysis in Python](#29)
 - [Financial Forecasting in Python](#36)
 - [Foundations of Probability in Python](#31)
@@ -219,6 +220,17 @@
   - Feature selection II, selecting for model accuracy
 
   - Feature extraction
+
+<a id='44'></a>
+- [Ensemble Methods in Python](https://github.com/iDataist/Ensemble-Methods-in-Python)
+
+  - Combining Multiple Models
+
+  - Bagging
+
+  - Boosting
+
+  - Stacking
 
 <a id='29'></a>
 - [Exploratory Data Analysis in Python](https://github.com/iDataist/Exploratory-Data-Analysis-in-Python)
