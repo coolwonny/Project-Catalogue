@@ -21,6 +21,7 @@
 - [Financial Forecasting in Python](#36)
 - [Foundations of Probability in Python](#31)
 - [Fraud Detection in Python](#6)
+- [Hyperparameter Tuning in Python](#45)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
 - [Introduction to Matplotlib](#14)
@@ -276,6 +277,18 @@
   - Fraud detection using unlabelled data
 
   - Fraud detection using text
+
+<a id='45'></a>
+
+- [Hyperparameter Tuning in Python](https://github.com/iDataist/Hyperparameter-Tuning-in-Python)
+
+  - Hyperparameters and Parameters
+
+  - Grid search
+
+  - Random Search
+
+  - Informed Search
 
 <a id='16'></a>
 - [Improving Data Visualizations in Python](https://github.com/iDataist/Improving-Data-Visualizations-in-Python)
