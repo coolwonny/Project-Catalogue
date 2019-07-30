@@ -15,6 +15,7 @@
 - [Data Types for Data Science](#23)
 - [Data Visualization with Seaborn](#27)
 - [Deep Learning with PyTorch](#37)
+- [Designing Machine Learning Workflows in Python](#46)
 - [Dimensionality Reduction in Python](#38)
 - [Ensemble Methods in Python](#44)
 - [Exploratory Data Analysis in Python](#29)
@@ -210,6 +211,17 @@
   - Convolutional Neural Networks (CNNs)
 
   - Using Convolutional Neural Networks
+
+<a id='46'></a>
+- [Designing Machine Learning Workflows in Python](https://github.com/iDataist/Designing-Machine-Learning-Workflows-in-Python)
+
+  - The Standard Workflow
+
+  - The Human in the Loop
+
+  - Model Lifecycle Management
+
+  - Unsupervised Workflows
 
 <a id='38'></a>
 - [Dimensionality Reduction in Python](https://github.com/iDataist/Dimensionality-Reduction-in-Python)
