@@ -20,6 +20,8 @@
 - [Ensemble Methods in Python](#44)
 - [Exploratory Data Analysis in Python](#29)
 - [Financial Forecasting in Python](#36)
+- [Foundations of Predictive Analytics in Python (Part 1)](#47)
+- [Foundations of Predictive Analytics in Python (Part 2)](#48)
 - [Foundations of Probability in Python](#31)
 - [Fraud Detection in Python](#6)
 - [Hyperparameter Tuning in Python](#45)
@@ -266,6 +268,28 @@
   - Formatting raw data, managing dates and financial periods
 
   - Assumptions and variances in forecasts
+
+<a id='47'></a>
+- [Foundations of Predictive Analytics in Python (Part 1)](https://github.com/iDataist/Foundations_of_Predictive_Analytics_in_Python_1)
+
+  - Building Logistic Regression Models
+
+  - Forward stepwise variable selection for logistic regression
+
+  - Explaining model performance to business
+
+  - Interpreting and explaining models
+
+<a id='48'></a>
+- [Foundations of Predictive Analytics in Python (Part 2)](https://github.com/iDataist/Foundations_of_Predictive_Analytics_in_Python_2)
+
+  - Crucial base table concepts
+
+  - Creating variables
+
+  - Data preparation
+
+  - Advanced base table concepts
 
 <a id='31'></a>
 - [Foundations of Probability in Python](https://github.com/iDataist/Foundations-of-Probability-in-Python)
