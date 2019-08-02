@@ -19,7 +19,9 @@
 - [Dimensionality Reduction in Python](#38)
 - [Ensemble Methods in Python](#44)
 - [Exploratory Data Analysis in Python](#29)
+- [Feature Engineering for NLP in Python](#50)
 - [Financial Forecasting in Python](#36)
+- [Forecasting Using ARIMA Models in Python](#51)
 - [Foundations of Predictive Analytics in Python (Part 1)](#47)
 - [Foundations of Predictive Analytics in Python (Part 2)](#48)
 - [Foundations of Probability in Python](#31)
@@ -44,6 +46,7 @@
 - [Preparing for Statistics Interview Questions in Python](#33)
 - [Preprocessing for Machine Learning in Python](#41)
 - [Regular Expressions in Python](#34)
+- [Sentiment Analysis in Python](#49)
 - [Statistical Simulation in Python](#17)
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
@@ -258,8 +261,19 @@
 
   - Multivariate Thinking
 
+<a id='50'></a>
+- [Feature Engineering for NLP in Python](https://github.com/iDataist/Feature-Engineering-for-NLP-in-Python)
+
+  - Basic features and readability scores
+
+  - Text preprocessing, POS tagging and NER
+
+  - N-Gram models
+
+  - TF-IDF and similarity scores
+
 <a id='36'></a>
-- [Financial Forecasting in Python](https://github.com/iDataist/Financial-Forecasting-in-Python/blob/master/Financial_Forecasting_in_Python.ipynb)
+- [Financial Forecasting in Python](https://github.com/iDataist/Financial-Forecasting-in-Python)
 
   - Income statements
 
@@ -268,6 +282,17 @@
   - Formatting raw data, managing dates and financial periods
 
   - Assumptions and variances in forecasts
+
+<a id='51'></a>
+- [Forecasting Using ARIMA Models in Python](https://github.com/iDataist/Forecasting-Using-ARIMA-Models-in-Python)
+
+  - ARMA Models
+
+  - Fitting the Future
+
+  - The Best of the Best Models
+
+  - Seasonal ARIMA Models
 
 <a id='47'></a>
 - [Foundations of Predictive Analytics in Python (Part 1)](https://github.com/iDataist/Foundations_of_Predictive_Analytics_in_Python_1)
@@ -545,6 +570,17 @@
   - Regular Expressions for Pattern Matching
 
   - Advanced Regular Expression Concepts
+
+<a id='49'></a>
+- [Sentiment Analysis in Python](https://github.com/iDataist/Sentiment-Analysis-in-Python)
+
+  - Sentiment Analysis Nuts and Bolts
+
+  - Numeric Features from Reviews
+
+  - More on Numeric Vectors: Transforming Tweets
+
+  - Let's Predict the Sentiment
 
 <a id='17'></a>
 - [Statistical Simulation in Python](https://github.com/iDataist/Statistical-Simulation-in-Python)
