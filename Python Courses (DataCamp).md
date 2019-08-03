@@ -26,6 +26,7 @@
 - [Foundations of Predictive Analytics in Python (Part 2)](#48)
 - [Foundations of Probability in Python](#31)
 - [Fraud Detection in Python](#6)
+- [Generalized Linear Models in Python](#52)
 - [Hyperparameter Tuning in Python](#45)
 - [Improving Data Visualizations in Python](#16)
 - [Introduction to Linear Modeling in Python](#13)
@@ -51,6 +52,7 @@
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
 - [Web Scraping in Python](#32)
+- [Winning a Kaggle Competition in Python](#53)
 - [Working with Dates and Times in Python](#26)
 - [Writing Efficient Python Code](#24)
 
@@ -338,6 +340,18 @@
   - Fraud detection using unlabelled data
 
   - Fraud detection using text
+
+<a id='52'></a>
+
+- [Generalized Linear Models in Python](https://github.com/iDataist/Generalized-Linear-Models-in-Python)
+
+  - Introduction to GLMs
+
+  - Modeling Binary Data
+
+  - Modeling Count Data
+
+  - Multivariable Logistic Regression
 
 <a id='45'></a>
 
@@ -627,6 +641,17 @@
   - CSS Locators, Chaining, and Responses
 
   - Spiders
+
+<a id='53'></a>  
+- [Winning a Kaggle Competition in Python](https://github.com/iDataist/Winning-a-Kaggle-Competition-in-Python)
+
+  - Kaggle competitions process
+
+  - Dive into the Competition
+
+  - Feature Engineering
+
+  - Modeling
 
 <a id='26'></a>
 - [Working with Dates and Times in Python](https://github.com/iDataist/Working-with-Dates-and-Times-in-Python)
