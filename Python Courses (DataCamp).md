@@ -10,6 +10,7 @@
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
 - [Case Studies in Statistical Thinking](#18)
+- [Convolutional_Neural_Networks_for_Image_Processing](#55)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Data Types for Data Science](#23)
@@ -19,6 +20,7 @@
 - [Dimensionality Reduction in Python](#38)
 - [Ensemble Methods in Python](#44)
 - [Exploratory Data Analysis in Python](#29)
+- [Extreme Gradient Boosting with XGBoost](#54)
 - [Feature Engineering for NLP in Python](#50)
 - [Financial Forecasting in Python](#36)
 - [Forecasting Using ARIMA Models in Python](#51)
@@ -160,6 +162,17 @@
 
   - Earthquakes and oil mining in Oklahoma
 
+<a id='55'></a>
+- [Convolutional_Neural_Networks_for_Image_Processing](https://github.com/iDataist/Convolutional_Neural_Networks_for_Image_Processing)
+
+  - Image Processing With Neural Networks
+
+  - Using Convolutions
+
+  - Going Deeper
+
+  - Understanding and Improving Deep Convolutional Networks
+
 <a id='3'></a>
 
 - [Customer Analytics & A/B Testing in Python](https://github.com/iDataist/Customer-Analytics-and-A-B-Testing-in-Python)
@@ -262,6 +275,17 @@
   - Relationships
 
   - Multivariate Thinking
+
+<a id='54'></a>
+- [Extreme Gradient Boosting with XGBoost](https://github.com/iDataist/Extreme-Gradient-Boosting-with-XGBoost)
+
+  - Classification with XGBoost
+
+  - Regression with XGBoost
+
+  - Fine-tuning your XGBoost model
+
+  - Using XGBoost in pipelines
 
 <a id='50'></a>
 - [Feature Engineering for NLP in Python](https://github.com/iDataist/Feature-Engineering-for-NLP-in-Python)
