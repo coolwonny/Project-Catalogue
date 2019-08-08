@@ -9,7 +9,9 @@
 - [Analyzing US Census Data in Python](#30)
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
+- [Building Recommendation Engines with PySpark](#56)
 - [Case Studies in Statistical Thinking](#18)
+- [Clustering Methods with SciPy](#57)
 - [Convolutional_Neural_Networks_for_Image_Processing](#55)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
@@ -149,6 +151,17 @@
 
   - Machine Learning with PySpark MLlib
 
+<a id='56'></a>
+- [Building Recommendation Engines with PySpark](https://github.com/iDataist/Building-Recommendation-Engines-with-PySpark)
+
+  - Recommendations Are Everywhere
+
+  - How does ALS work?
+
+  - Recommending Movies
+
+  - What if you don't have customer ratings?
+
 <a id='18'></a>
 - [Case Studies in Statistical Thinking](https://github.com/iDataist/Case-Studies-in-Statistical-Thinking)
 
@@ -161,6 +174,18 @@
   - Statistical seismology and the Parkfield region
 
   - Earthquakes and oil mining in Oklahoma
+
+<a id='57'></a>
+- [Clustering Methods with SciPy](https://github.com/iDataist/Clustering-Methods-with-SciPy)
+
+- Introduction to Clustering
+
+- Hierarchical Clustering
+
+- K-Means Clustering
+
+- Clustering in Real World
+
 
 <a id='55'></a>
 - [Convolutional_Neural_Networks_for_Image_Processing](https://github.com/iDataist/Convolutional_Neural_Networks_for_Image_Processing)
