@@ -40,6 +40,7 @@
 - [Introduction to PySpark](#4)
 - [Introduction to Seaborn](#15)
 - [Introduction to Spark SQL with Python](#22)
+- [Introduction to TensorFlow in Python](#59)
 - [Linear Classifiers in Python](#12)
 - [Machine Learning for Finance in Python](#39)
 - [Machine Learning for Time Series Data in Python](#43)
@@ -519,6 +520,17 @@
   - Caching, Logging, and the Spark UI
 
   - Text classification
+
+<a id='59'></a>
+- [Introduction to TensorFlow in Python](https://github.com/iDataist/Introduction-to-TensorFlow-in-Python)
+
+  - Introduction to TensorFlow
+
+  - Linear Regression in TensorFlow
+
+  - Neural Networks in TensorFlow
+
+  - High Level APIs in TensorFlow
 
 <a id='39'></a>
 - [Machine Learning for Finance in Python](https://github.com/iDataist/Machine-Learning-for-Finance-in-Python)
