@@ -9,6 +9,7 @@
 - [Analyzing US Census Data in Python](#30)
 - [Advanced NLP with spaCy](#9)
 - [Big Data Fundamentals via PySpark](#21)
+- [Building Chatbots in Python](#58)
 - [Building Recommendation Engines with PySpark](#56)
 - [Case Studies in Statistical Thinking](#18)
 - [Clustering Methods with SciPy](#57)
@@ -150,6 +151,17 @@
   - PySpark SQL & DataFrames
 
   - Machine Learning with PySpark MLlib
+
+<a id='58'></a>
+- [Building Chatbots in Python](https://github.com/iDataist/Building-Chatbots-in-Python)
+
+  - Chatbots 101
+
+  - Understanding natural language
+
+  - Building a virtual assistant
+
+  - Dialogue
 
 <a id='56'></a>
 - [Building Recommendation Engines with PySpark](https://github.com/iDataist/Building-Recommendation-Engines-with-PySpark)
