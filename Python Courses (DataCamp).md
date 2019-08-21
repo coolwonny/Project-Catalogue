@@ -204,13 +204,13 @@
 <a id='57'></a>
 - [Clustering Methods with SciPy](https://github.com/iDataist/Clustering-Methods-with-SciPy)
 
-- Introduction to Clustering
+  - Introduction to Clustering
 
-- Hierarchical Clustering
+  - Hierarchical Clustering
 
-- K-Means Clustering
+  - K-Means Clustering
 
-- Clustering in Real World
+  - Clustering in Real World
 
 
 <a id='55'></a>
