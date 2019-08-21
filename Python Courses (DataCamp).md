@@ -696,13 +696,13 @@
 <a id='60'></a>
 - [Streamlined Data Ingestion with pandas](https://github.com/iDataist/Streamlined-Data-Ingestion-with-pandas)
 
- - Importing Data from Flat Files
+  - Importing Data from Flat Files
 
- - Importing Data From Excel Files
+  - Importing Data From Excel Files
 
- - Importing Data from Databases
+  - Importing Data from Databases
 
- - Importing JSON Data and Working with APIs
+  - Importing JSON Data and Working with APIs
 
 <a id='19'></a>
 - [Visualizing Geospatial Data in Python](https://github.com/iDataist/Visualizing-Geospatial-Data-in-Python)
