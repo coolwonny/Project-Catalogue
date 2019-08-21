@@ -12,6 +12,7 @@
 - [Building Chatbots in Python](#58)
 - [Building Recommendation Engines with PySpark](#56)
 - [Case Studies in Statistical Thinking](#18)
+- [Cleaning Data with Apache Spark in Python](#61)
 - [Clustering Methods with SciPy](#57)
 - [Convolutional_Neural_Networks_for_Image_Processing](#55)
 - [Customer Analytics & A/B Testing in Python](#3)
@@ -55,6 +56,7 @@
 - [Regular Expressions in Python](#34)
 - [Sentiment Analysis in Python](#49)
 - [Statistical Simulation in Python](#17)
+- [Streamlined Data Ingestion with pandas](#60)
 - [Visualizing Geospatial Data in Python](#19)
 - [Visualizing Time Series Data in Python](#28)
 - [Web Scraping in Python](#32)
@@ -187,6 +189,17 @@
   - Statistical seismology and the Parkfield region
 
   - Earthquakes and oil mining in Oklahoma
+
+<a id='61'></a>
+- [Cleaning Data with Apache Spark in Python](https://github.com/iDataist/Cleaning-Data-with-Apache-Spark-in-Python)
+
+  - DataFrame details
+
+  - Manipulating DataFrames in the real wold
+
+  - Improving Performance
+
+  - Complex processing and data pipelines
 
 <a id='57'></a>
 - [Clustering Methods with SciPy](https://github.com/iDataist/Clustering-Methods-with-SciPy)
@@ -679,6 +692,17 @@
   - Resampling methods
 
   - Advanced Applications of Simulation
+
+<a id='60'></a>
+- [Streamlined Data Ingestion with pandas](https://github.com/iDataist/Streamlined-Data-Ingestion-with-pandas)
+
+ - Importing Data from Flat Files
+
+ - Importing Data From Excel Files
+
+ - Importing Data from Databases
+
+ - Importing JSON Data and Working with APIs
 
 <a id='19'></a>
 - [Visualizing Geospatial Data in Python](https://github.com/iDataist/Visualizing-Geospatial-Data-in-Python)
