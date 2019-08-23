@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Advanced Deep Learning with Keras in Python](#10)
+- [Analyzing IoT Data in Python](#62)
 - [Analyzing Marketing Campaigns with pandas](#25)
 - [Analyzing Police Activity with pandas](#11)
 - [Analyzing Social Media Data in Python](#35)
@@ -88,6 +89,17 @@
   - Multiple Inputs: 3 Inputs (and Beyond!)
 
   - Multiple Outputs
+
+<a id='62'></a>
+- [Analyzing IoT Data in Python](https://github.com/iDataist/Analyzing-IoT-Data-in-Python/blob/master/Analyzing_IoT_Data_in_Python.ipynb)
+
+  - Accessing IoT Data
+
+  - Processing IoT data
+
+  - Analyzing IoT data
+
+  - Machine learning for IoT
 
 <a id='25'></a>
 - [Analyzing Marketing Campaigns with pandas](https://github.com/iDataist/Analyzing-Marketing-Campaigns-with-pandas/blob/master/Analyzing_Marketing_Campaigns_with_pandas.ipynb)
