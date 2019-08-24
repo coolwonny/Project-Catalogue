@@ -48,6 +48,7 @@
 - [Machine Learning for Time Series Data in Python](#43)
 - [Machine Learning with Apache Spark](#20)
 - [Machine Learning with Tree Based Models in Python](#42)
+- [Manipulating Time Series Data in Python](#63)
 - [Model Validation in Python](#40)
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
@@ -602,6 +603,17 @@
   - Boosting
 
   - Model Tuning
+
+<a id='63'></a>
+- [Manipulating Time Series Data in Python](https://github.com/iDataist/Manipulating-Time-Series-Data-in-Python)
+
+  - Working with Time Series in Pandas
+
+  - Basic Time Series Metrics & Resampling
+
+  - Window Functions: Rolling & Expanding Metrics
+
+  - Putting it all together: Building a value-weighted index
 
 <a id='40'></a>
 - [Model Validation in Python](https://github.com/iDataist/Model-Validation-in-Python)
