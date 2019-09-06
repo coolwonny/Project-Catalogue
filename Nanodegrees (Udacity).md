@@ -109,10 +109,6 @@
 <a id='3'></a>
 ## Data Scientist Nanodegree
 
-- **Data Engineering**
-
-  - [Build Pipelines to Classify Messages](https://github.com/iDataist/Build-Pipelines-to-Classify-Messages)
-
 - **Supervised Learning**
 
   - [Find Donors for CharityML](https://github.com/iDataist/Find-Donors-for-CharityML)
@@ -124,6 +120,10 @@
 - **Deep Learning**
 
   - [Create an Image Classifier](https://github.com/iDataist/Create-an-Image-Classifier)
+
+- **Data Engineering**
+
+  - [Build Pipelines to Classify Messages](https://github.com/iDataist/Build-Pipelines-to-Classify-Messages)
 
 - **Experiment Design**
 
