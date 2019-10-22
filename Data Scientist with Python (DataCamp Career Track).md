@@ -157,7 +157,7 @@
 
 <a id='13'></a>  
 
-[Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python)
+- [Introduction to Data Visualization with Python](https://github.com/iDataist/Introduction-to-Data-Visualization-with-Python)
 
   - Customizing plots
 
@@ -169,7 +169,7 @@
 
 <a id='14'></a>
 
-[Interactive Data Visualization with Bokeh](https://github.com/iDataist/Interactive-Data-Visualization-with-Bokeh)
+- [Interactive Data Visualization with Bokeh](https://github.com/iDataist/Interactive-Data-Visualization-with-Bokeh)
 
   - Basic plotting with Bokeh
 
@@ -180,7 +180,7 @@
   - Case Study
 
 <a id='15'></a>
-[Statistical Thinking in Python (Part 1)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-1-)
+- [Statistical Thinking in Python (Part 1)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-1-)
 
   - Graphical exploratory data analysis
 
@@ -191,7 +191,7 @@
   - Thinking probabilistically-- Continuous variables
 
 <a id='16'></a>
-[Statistical Thinking in Python (Part 2)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-2)
+- [Statistical Thinking in Python (Part 2)](https://github.com/iDataist/Statistical-Thinking-in-Python--Part-2)
 
   - Parameter estimation by optimization
 
@@ -202,7 +202,7 @@
   - Hypothesis test examples
 
 <a id='18'></a>
-[Supervised Learning with scikit-learn](https://github.com/iDataist/Supervised-Learning-with-scikit-learn)
+- [Supervised Learning with scikit-learn](https://github.com/iDataist/Supervised-Learning-with-scikit-learn)
 
   - Classification
 
@@ -213,7 +213,7 @@
   - Preprocessing and pipelines
 
 <a id='19'></a>
-[Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets)
+- [Machine Learning with the Experts: School Budgets](https://github.com/iDataist/Machine-Learning-with-the-Experts-School-Budgets)
 
   - Exploring the raw data
 
@@ -224,7 +224,7 @@
   - Learning from the experts
 
 <a id='20'></a>
-[Unsupervised Learning in Python](https://github.com/iDataist/Unsupervised-Learning-in-Python)
+- [Unsupervised Learning in Python](https://github.com/iDataist/Unsupervised-Learning-in-Python)
 
   - Clustering for dataset exploration
 
@@ -235,7 +235,7 @@
   - Discovering interpretable features
 
 <a id='21'></a>
-[Deep Learning in Python](https://github.com/iDataist/Deep-Learning-in-Python)
+- [Deep Learning in Python](https://github.com/iDataist/Deep-Learning-in-Python)
 
   - Basics of deep learning and neural networks
 
@@ -246,7 +246,7 @@
   - Fine-tuning keras models  
 
 <a id='22'></a>
-[Network Analysis in Python (Part 1)](https://github.com/iDataist/Network-Analysis-in-Python-Part-1)
+- [Network Analysis in Python (Part 1)](https://github.com/iDataist/Network-Analysis-in-Python-Part-1)
 
   - Introduction to networks
 
@@ -257,7 +257,7 @@
   - Case Study
 
 <a id='23'></a>
-[Introduction to Shell for Data Science](https://github.com/iDataist/Introduction-to-Shell-for-Data-Science)
+- [Introduction to Shell for Data Science](https://github.com/iDataist/Introduction-to-Shell-for-Data-Science)
 
   - Manipulating files and directories
 
@@ -270,7 +270,7 @@
   - Creating new tools
 
   <a id='24'></a>
-  [Conda Essentials](https://github.com/iDataist/Conda-Essentials)
+- [Conda Essentials](https://github.com/iDataist/Conda-Essentials)
 
   - Installing Packages
 
