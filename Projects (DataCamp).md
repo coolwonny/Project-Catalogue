@@ -10,6 +10,7 @@
 - [Book Recommendations From Charles Darwin](#1)
 - [Classify Song Genres from Audio Data](#16)
 - [Comparing Cosmetics by Ingredients](#11)
+- [Disney Movies and Box Office Success](#35)
 - [Do Left-handed People Really Die Young](#23)
 - [Dr. Semmelweis and the Discovery of Handwashing](#8)
 - [Exploring 67 years of LEGO](#7)
@@ -93,6 +94,9 @@
 
   So instead of buying and hoping for the best, why don't we use data science to help us predict which products may be good fits for us? In this notebook, we are going to create a content-based recommendation system where the 'content' will be the chemical components of cosmetics. Specifically, we will process ingredient lists for 1472 cosmetics on Sephora via word embedding, then visualize ingredient similarity using a machine learning method called t-SNE and an interactive visualization library called Bokeh.
 
+<a id='35'></a>
+- [Disney Movies and Box Office Success](https://github.com/iDataist/Disney-Movies-and-Box-Office-Success):
+  In this project, I explored a dataset of Disney movies and analyzed what contributes to the success of Disney movies.
 <a id='23'></a>
 - [Do Left-handed People Really Die Young](https://github.com/iDataist/Do-Left-handed-People-Really-Die-Young)
   Barack Obama is left-handed. So are Bill Gates and Oprah Winfrey; so were Babe Ruth and Marie Curie. A <a href="https://www.nejm.org/doi/full/10.1056/NEJM199104043241418">1991 study</a> reported that left-handed people die on average nine years earlier than right-handed people. Nine years! Could this really be true?
