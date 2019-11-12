@@ -36,6 +36,7 @@
 - [Generalized Linear Models in Python](#52)
 - [Hyperparameter Tuning in Python](#45)
 - [Improving Data Visualizations in Python](#16)
+- [Intro to Python for Finance](#64)
 - [Introduction to Linear Modeling in Python](#13)
 - [Introduction to Matplotlib](#14)
 - [Introduction to MongoDB in Python](#7)
@@ -462,7 +463,16 @@
 
   - Showing uncertainty
 
-  - Visualization in the data science workflow
+  - Visualization in the data science workflow# Intro to Python for Finance
+
+<a id='64'></a>
+- [Intro to Python for Finance](https://github.com/iDataist/Intro-to-Python-for-Finance)
+
+  - Python
+  - Lists
+  - Arrays
+  - Visualization
+  - S&P 100 Case Study
 
 <a id='13'></a>
 
