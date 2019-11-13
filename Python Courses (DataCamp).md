@@ -36,6 +36,7 @@
 - [Generalized Linear Models in Python](#52)
 - [Hyperparameter Tuning in Python](#45)
 - [Improving Data Visualizations in Python](#16)
+- [Intro to Financial Concepts using Python](#65)
 - [Intro to Python for Finance](#64)
 - [Introduction to Linear Modeling in Python](#13)
 - [Introduction to Matplotlib](#14)
@@ -464,6 +465,14 @@
   - Showing uncertainty
 
   - Visualization in the data science workflow# Intro to Python for Finance
+
+<a id='65'></a>
+- [Intro to Financial Concepts using Python](https://github.com/iDataist/Intro-to-Financial-Concepts-using-Python)
+
+  - The Time Value of Money
+  - Making Data-Driven Financial Decisions
+  - Simulating a Mortgage Loan
+  - Budgeting Application
 
 <a id='64'></a>
 - [Intro to Python for Finance](https://github.com/iDataist/Intro-to-Python-for-Finance)
