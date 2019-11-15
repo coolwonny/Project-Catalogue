@@ -55,6 +55,7 @@
 - [Natural Language Processing Fundamentals in Python](#1)
 - [Network Analysis in Python (Part 2)](#8)
 - [Predicting Employee Churn](#5)
+- [Preparing for Machine Learning Interview Questions in Python](#66)
 - [Preparing for Statistics Interview Questions in Python](#33)
 - [Preprocessing for Machine Learning in Python](#41)
 - [Regular Expressions in Python](#34)
@@ -678,6 +679,14 @@
   - Evaluating the turnover prediction model
 
   - Choosing the best turnover prediction model
+
+<a id='66'></a>
+- [Preparing for Machine Learning Interview Questions in Python](https://github.com/iDataist/Preparing-for-Machine-Learning-Interview-Questions-in-Python)
+
+ - Data Pre-processing and Visualization
+ - Supervised Learning
+ - Unsupervised Learning
+ - Model Selection and Evaluation
 
 <a id='33'></a>
 - [Preparing for Statistics Interview Questions in Python](https://github.com/iDataist/Preparing-for-Statistics-Interview-Questions-in-Python)
