@@ -47,6 +47,7 @@
 - [Introduction to TensorFlow in Python](#59)
 - [Linear Classifiers in Python](#12)
 - [Machine Learning for Finance in Python](#39)
+- [Machine Learning for Marketing in Python](#67)
 - [Machine Learning for Time Series Data in Python](#43)
 - [Machine Learning with Apache Spark](#20)
 - [Machine Learning with Tree Based Models in Python](#42)
@@ -588,6 +589,14 @@
   - Neural networks and KNN
 
   - Machine learning with modern portfolio theory
+
+<a id='67'></a>
+- [Machine Learning for Marketing in Python](https://github.com/iDataist/Machine-Learning-for-Marketing-in-Python)
+
+  - Machine learning for marketing basics
+  - Churn prediction and drivers
+  - Customer Lifetime Value (CLV) prediction
+  - Customer segmentation
 
 <a id='43'></a>
 - [Machine Learning for Time Series Data in Python](https://github.com/iDataist/Machine-Learning-for-Time-Series-Data-in-Python)
