@@ -84,6 +84,8 @@
 
     - [Introduction-to-Data-Warehouse](https://github.com/iDataist/Introduction-to-Data-Warehouse): Explored data warehouse, the Cloud and AWS
 
+    - [Implementing Data Warehouses on AWS](https://github.com/iDataist/Implementing-Data-Warehouses-on-AWS): Implemented data warehouses on AWS
+
     - [Data Infrastructure on the Cloud](https://github.com/iDataist/Data-Engineering/tree/master/2.%20Data-Infrastructure-on-the-Cloud): Built an ETL pipeline that extracts the data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for the analytics team
 
 - **Data Lakes with Spark**
