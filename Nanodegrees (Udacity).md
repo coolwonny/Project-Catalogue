@@ -136,82 +136,82 @@
 
 - **Model Deployment**
 
- - [Predicting Housing Prices](https://github.com/iDataist/Predicting-Housing-Prices-with-SageMaker)
+  - [Predicting Housing Prices](https://github.com/iDataist/Predicting-Housing-Prices-with-SageMaker)
 
- - [IMDB Sentiment Analysis](https://github.com/iDataist/IMDB-Sentiment-Analysis-with-SageMaker)
+  - [IMDB Sentiment Analysis](https://github.com/iDataist/IMDB-Sentiment-Analysis-with-SageMaker)
 
- - [Deploy a Sentiment Analysis Model](https://github.com/iDataist/Deploy-a-Sentiment-Analysis-Model-with-SageMaker)
+  - [Deploy a Sentiment Analysis Model](https://github.com/iDataist/Deploy-a-Sentiment-Analysis-Model-with-SageMaker)
 
 - **Machine Learning Case Studies**
 
- - [Building a Population Segmentation Model](https://github.com/iDataist/Building-a-Population-Segmentation-Model-with-SageMaker)
+  - [Building a Population Segmentation Model](https://github.com/iDataist/Building-a-Population-Segmentation-Model-with-SageMaker)
 
- - [Creating a Payment Fraud Detection Model](https://github.com/iDataist/Creating-a-Payment-Fraud-Detection-Model-with-SageMaker)
+  - [Creating a Payment Fraud Detection Model](https://github.com/iDataist/Creating-a-Payment-Fraud-Detection-Model-with-SageMaker)
 
- - [Deploy a Custom PyTorch Model](https://github.com/iDataist/Deploy-a-Custom-PyTorch-Model-with-SageMaker)
+  - [Deploy a Custom PyTorch Model](https://github.com/iDataist/Deploy-a-Custom-PyTorch-Model-with-SageMaker)
 
- - [Performing Time Series Forecasting](https://github.com/iDataist/Perform-Time-Series-Forecasting-with-SageMaker)
+  - [Performing Time Series Forecasting](https://github.com/iDataist/Perform-Time-Series-Forecasting-with-SageMaker)
 
- - [Create a Plagiarism Detector with SageMaker](https://github.com/iDataist/Create-a-Plagiarism-Detector-with-SageMaker)
+  - [Create a Plagiarism Detector with SageMaker](https://github.com/iDataist/Create-a-Plagiarism-Detector-with-SageMaker)
 
 <a id='5'></a>
 # Deep Learning
 
 - **Neural Networks**
-   - [Introduction to Neural Networks](https://github.com/iDataist/Introduction-to-Neural-Network): Implement gradient descent and apply it to predicting patterns in student admissions data.
+  - [Introduction to Neural Networks](https://github.com/iDataist/Introduction-to-Neural-Network): Implement gradient descent and apply it to predicting patterns in student admissions data.
 
-   - [Bike Sharing Prediction with Neural Network](https://github.com/iDataist/Bike-Sharing-Prediction-with-Neural-Network): Implement a neural network in NumPy to predict bike rentals.
+  - [Bike Sharing Prediction with Neural Network](https://github.com/iDataist/Bike-Sharing-Prediction-with-Neural-Network): Implement a neural network in NumPy to predict bike rentals.
 
-   - [Sentiment Analysis with Neural Network](https://github.com/iDataist/Sentiment-Analysis-with-Neural-Network): Build a sentiment analysis model, predicting if some text is positive or negative.
+  - [Sentiment Analysis with Neural Network](https://github.com/iDataist/Sentiment-Analysis-with-Neural-Network): Build a sentiment analysis model, predicting if some text is positive or negative.
 
-   - [Intro to PyTorch](https://github.com/iDataist/Intro-to-PyTorch): Build neural networks in PyTorch and use pre-trained networks for state-of-the-art image classifiers.
+  - [Intro to PyTorch](https://github.com/iDataist/Intro-to-PyTorch): Build neural networks in PyTorch and use pre-trained networks for state-of-the-art image classifiers.
 
 - **Convolutional Neural Networks**
 
-   - [MLP Classification for MNIST images](https://github.com/iDataist/MLP-Classification): Define and train a CNN for classifying the MNIST data.
+  - [MLP Classification for MNIST images](https://github.com/iDataist/MLP-Classification): Define and train a CNN for classifying the MNIST data.
 
-   - [Define a CNN model for classifying CIFAR10 images](https://github.com/iDataist/Define-a-CNN-model-for-classifying-CIFAR10-images): Define and train a CNN for classifying images in the CIFAR10 dataset.
+  - [Define a CNN model for classifying CIFAR10 images](https://github.com/iDataist/Define-a-CNN-model-for-classifying-CIFAR10-images): Define and train a CNN for classifying images in the CIFAR10 dataset.
 
-   - [CNN Visualization](https://github.com/iDataist/CNN-Visualization): Visualize the output of layers that make up a CNN.
+  - [CNN Visualization](https://github.com/iDataist/CNN-Visualization): Visualize the output of layers that make up a CNN.
 
-   - [Transfer Learning](https://github.com/iDataist/Transfer-Learning): Use VGGnet to help classify images of flowers without training an end-to-end network from scratch.
+  - [Transfer Learning](https://github.com/iDataist/Transfer-Learning): Use VGGnet to help classify images of flowers without training an end-to-end network from scratch.
 
-   - [Weight Initialization](https://github.com/iDataist/Weight-Initialization): Explore how initializing network weights affects performance.
+  - [Weight Initialization](https://github.com/iDataist/Weight-Initialization): Explore how initializing network weights affects performance.
 
-   - [Autoencoder](https://github.com/iDataist/Autoencoder): Build models for image compression and de-noising, using feedforward and convolutional networks in PyTorch.
+  - [Autoencoder](https://github.com/iDataist/Autoencoder): Build models for image compression and de-noising, using feedforward and convolutional networks in PyTorch.
 
-   - [Style Transfer](https://github.com/iDataist/Style-Transfer): Extract style and content features from images, using a pre-trained network. Implement style transfer according to the paper, [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) by Gatys et. al. Define appropriate losses for iteratively creating a target, style-transferred image.
+  - [Style Transfer](https://github.com/iDataist/Style-Transfer): Extract style and content features from images, using a pre-trained network. Implement style transfer according to the paper, [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) by Gatys et. al. Define appropriate losses for iteratively creating a target, style-transferred image.
 
-   - [Build a Dog Identification App](https://github.com/iDataist/Build-a-Dog-Identification-App): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
+  - [Build a Dog Identification App](https://github.com/iDataist/Build-a-Dog-Identification-App): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 
-   - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning)
+  - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning)
 
 - **Recurrent Neural Networks**
 
-   - [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/iDataist/Recurrent-Neural-Networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
+  - [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/iDataist/Recurrent-Neural-Networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
 
-   - [Embeddings (Word2Vec)](https://github.com/iDataist/Word2vec-Embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
+  - [Embeddings (Word2Vec)](https://github.com/iDataist/Word2vec-Embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
 
-   - [Sentiment Analysis RNN](https://github.com/iDataist/Sentiment-RNN) : Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
+  - [Sentiment Analysis RNN](https://github.com/iDataist/Sentiment-RNN) : Implement a recurrent neural network that can predict if the text of a moview review is positive or negative.
 
-   - [Generate TV Scripts with Recurrent Neural Networks](https://github.com/iDataist/Generate-TV-Scripts-with-Recurrent-Neural-Networks): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
+  - [Generate TV Scripts with Recurrent Neural Networks](https://github.com/iDataist/Generate-TV-Scripts-with-Recurrent-Neural-Networks): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 
-   - [Attention](https://github.com/iDataist/Attention): Implement attention and apply it to annotation vectors.
+  - [Attention](https://github.com/iDataist/Attention): Implement attention and apply it to annotation vectors.
 
 - **Generative Adversarial Networks**
 
-   - [Generative Adversarial Network on MNIST](https://github.com/iDataist/MNIST-GAN): Train a simple generative adversarial network on the MNIST dataset.
+  - [Generative Adversarial Network on MNIST](https://github.com/iDataist/MNIST-GAN): Train a simple generative adversarial network on the MNIST dataset.
 
-   - [Batch Normalization](https://github.com/iDataist/Batch-Normalization): Learn how to improve training rates and network stability with batch normalizations.
+  - [Batch Normalization](https://github.com/iDataist/Batch-Normalization): Learn how to improve training rates and network stability with batch normalizations.
 
-   - [Deep Convolutional GAN (DCGAN)](https://github.com/iDataist/DCGAN-with-he-Google-Streetview-dataset-SVHN): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
+  - [Deep Convolutional GAN (DCGAN)](https://github.com/iDataist/DCGAN-with-he-Google-Streetview-dataset-SVHN): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
 
-   - [CycleGAN](https://github.com/iDataist/Cycle-GAN): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
+  - [CycleGAN](https://github.com/iDataist/Cycle-GAN): Implement a CycleGAN that is designed to learn from unpaired and unlabeled data; use trained generators to transform images from summer to winter and vice versa.
 
-   - [Generate Faces](https://github.com/iDataist/Generate-Faces-with-Generative-Adversarial-Networks): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+  - [Generate Faces](https://github.com/iDataist/Generate-Faces-with-Generative-Adversarial-Networks): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 - **Tools**
 
-   - [Keras](https://github.com/iDataist/Keras): Build neural networks and convolutional neural networks with Keras.
+  - [Keras](https://github.com/iDataist/Keras): Build neural networks and convolutional neural networks with Keras.
 
-   - [TensorFlow](https://github.com/iDataist/TensorFlow)
+  - [TensorFlow](https://github.com/iDataist/TensorFlow)
