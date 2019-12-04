@@ -102,7 +102,7 @@
 
     - [Production Data Pipelines](https://github.com/iDataist/Production-Data-Pipelines): Built pipelines with maintainability and reusability in mind
 
-    - [Data Pipelines with Airflow](https://github.com/iDataist/Data-Engineering/tree/master/4.%20Data%20Pipelines%20with%20Airflow): Improved the data infrastructure by creating and automating a set of data pipelines; used Airflow to configure/schedule data pipelines and to monitor/debug production pipelines
+    - [Data Pipelines with Airflow](https://github.com/iDataist/Music-Streaming-App-Data-Engineering/tree/master/4.%20Data-Pipelines-with-Airflow): Improved the data infrastructure by creating and automating a set of data pipelines; used Airflow to configure/schedule data pipelines and to monitor/debug production pipelines
 
 <a id='3'></a>
 ## Data Scientist Nanodegree
