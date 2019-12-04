@@ -184,7 +184,7 @@
 
   - [Build a Dog Identification App](https://github.com/iDataist/Build-a-Dog-Identification-App): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 
-  - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning)
+  - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning): Detect melanoma with a convolutional neural network. 
 
 - **Recurrent Neural Networks**
 
@@ -214,4 +214,4 @@
 
   - [Keras](https://github.com/iDataist/Keras): Build neural networks and convolutional neural networks with Keras.
 
-  - [TensorFlow](https://github.com/iDataist/TensorFlow)
+  - [TensorFlow](https://github.com/iDataist/TensorFlow): Build neural networks with TensorFlow.
