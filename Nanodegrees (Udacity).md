@@ -6,6 +6,7 @@
 - [Data Scientist](#3)
 - [Machine Learning](#4)
 - [Deep Learning](#5)
+- [Natural Language Processing](#6)
 
 ## Tools
 
@@ -184,7 +185,7 @@
 
   - [Build a Dog Identification App](https://github.com/iDataist/Build-a-Dog-Identification-App): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 
-  - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning): Detect melanoma with a convolutional neural network. 
+  - [Melanoma Detection with Deep Learning](https://github.com/iDataist/Melanoma-Detection-with-Deep-Learning): Detect melanoma with a convolutional neural network.
 
 - **Recurrent Neural Networks**
 
@@ -215,3 +216,18 @@
   - [Keras](https://github.com/iDataist/Keras): Build neural networks and convolutional neural networks with Keras.
 
   - [TensorFlow](https://github.com/iDataist/TensorFlow): Build neural networks with TensorFlow.
+
+  <a id='6'></a>
+  ## Natural Language Processing
+
+- **Introduction to NLP**
+  - [Text Processing](https://github.com/iDataist/Natural-Language-Processing/blob/master/text_processing.ipynb)
+
+  - [Spam Classifier with Naive Bayes](https://github.com/iDataist/Natural-Language-Processing/blob/master/Bayesian_Inference.ipynb)
+
+- **Computing with NLP**
+
+  - [Sentiment Analysis](https://github.com/iDataist/Natural-Language-Processing/blob/master/sentiment_analysis.ipynb)
+
+- **Communicating with NLP**
+  
