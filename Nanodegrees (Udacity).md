@@ -223,11 +223,14 @@
 - **Introduction to NLP**
   - [Text Processing](https://github.com/iDataist/Natural-Language-Processing/blob/master/text_processing.ipynb)
 
-  - [Spam Classifier with Naive Bayes](https://github.com/iDataist/Natural-Language-Processing/blob/master/Bayesian_Inference.ipynb)
+  - [Spam Classifier with Naive Bayes](https://github.com/iDataist/Spam-Classifier-with-Naive-Bayes)
+
+  - [Part of Speech Tagging](https://github.com/iDataist/Part-of-Speech-Tagging)
 
 - **Computing with NLP**
 
-  - [Sentiment Analysis](https://github.com/iDataist/Natural-Language-Processing/blob/master/sentiment_analysis.ipynb)
+  - [Topic Modeling](https://github.com/iDataist/Topic-Modeling)
+
+  - [Sentiment Analysis](https://github.com/iDataist/Sentiment-Analysis)
 
 - **Communicating with NLP**
-  
