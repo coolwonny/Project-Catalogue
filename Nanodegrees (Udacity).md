@@ -233,4 +233,8 @@
 
   - [Sentiment Analysis](https://github.com/iDataist/Sentiment-Analysis)
 
+  - [Machine Translation](https://github.com/iDataist/Machine-Translation)
+  
 - **Communicating with NLP**
+
+  - [Speech Recognition](https://github.com/iDataist/speech-recognition)
