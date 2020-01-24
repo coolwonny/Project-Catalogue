@@ -2,12 +2,6 @@
 
 Descriptions and links for my repositories.
 
-- [Linear Algebra (Imperial College London)](https://github.com/iDataist/Linear-Algebra)
-
-- [Multivariate Calculus (Imperial College London)](https://github.com/iDataist/Multivariate-Calculus)
-
-- [Inferential Statistical Analysis with Python (University of Michigan)](https://github.com/iDataist/Inferential-Statistical-Analysis-with-Python)
-
 - [Applied Data Science with Python (University of Michigan)](https://github.com/iDataist/Project-Catalogue/blob/master/Applied%20Data%20Science%20with%20Python%20(University%20of%20Michigan).md)
 
 - [Data Scientist with Python (DataCamp Career Track)](https://github.com/iDataist/Project-Catalogue/blob/master/Data%20Scientist%20with%20Python%20(DataCamp%20Career%20Track).md)
@@ -17,3 +11,5 @@ Descriptions and links for my repositories.
 - [Projects (DataCamp)](https://github.com/iDataist/Project-Catalogue/blob/master/Projects%20(DataCamp).md)
 
 - [Nanodegrees (Udacity)](https://github.com/iDataist/Project-Catalogue/blob/master/Nanodegrees%20(Udacity).md)
+
+- [Other](https://github.com/iDataist/Project-Catalogue/blob/master/Other.md)
