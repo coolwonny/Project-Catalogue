@@ -7,6 +7,7 @@
 - [Machine Learning](#4)
 - [Deep Learning](#5)
 - [Natural Language Processing](#6)
+- [Data Structures and Algorithms](#7)
 
 ## Tools
 
@@ -156,7 +157,7 @@
   - [Create a Plagiarism Detector with SageMaker](https://github.com/iDataist/Create-a-Plagiarism-Detector-with-SageMaker)
 
 <a id='5'></a>
-# Deep Learning
+## Deep Learning
 
 - **Neural Networks**
   - [Introduction to Neural Networks](https://github.com/iDataist/Introduction-to-Neural-Network): Implement gradient descent and apply it to predicting patterns in student admissions data.
@@ -217,8 +218,8 @@
 
   - [TensorFlow](https://github.com/iDataist/TensorFlow): Build neural networks with TensorFlow.
 
-  <a id='6'></a>
-  ## Natural Language Processing
+<a id='6'></a>
+## Natural Language Processing
 
 - **Introduction to NLP**
   - [Text Processing](https://github.com/iDataist/Text-Processing)
@@ -238,3 +239,20 @@
 - **Communicating with NLP**
 
   - [Speech Recognition](https://github.com/iDataist/speech-recognition)
+
+<a id='7'></a>
+## Data Structures and Algorithms
+
+- **Introduction**
+  - [Big O Notation](https://github.com/iDataist/Worst-Case-Big-O-Notation)
+
+- **Data Structures**
+  - [Data Structures](https://github.com/iDataist/Data-Structures)
+
+- **Basic Algorithms**
+  - [Basic Algorithms](https://github.com/iDataist/Basic-Algorithms)
+
+- **Advanced Algorithms**
+  - [Advanced Algorithms](https://github.com/iDataist/Advanced-Algorithms)
+
+   -[Implement Route Planner](https://github.com/iDataist/Implement-Route-Planner)
