@@ -10,9 +10,9 @@
 
 ## Tools
 
-- NumPy, pandas, matplotlib
+- NumPy, pandas, matplotlib, Seaborn
 
-- PostgreSQL, Apache Cassandra, Amazon S3, Amazon Redshift, Apache Spark, Apache Airflow
+- PostgreSQL, Apache (Cassandra, Spark, Airflow), AWS(Redshift, SageMaker, Lambda, API Gateway)
 
 - scikit-learn, Keras, PyTorch
 
