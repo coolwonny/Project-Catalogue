@@ -2,6 +2,8 @@
 
 Descriptions and links for my repositories.
 
+- [Key Projects](https://github.com/iDataist/Project-Catalogue/blob/master/Key%20Project.md)
+
 - [Applied Data Science with Python (University of Michigan)](https://github.com/iDataist/Project-Catalogue/blob/master/Applied%20Data%20Science%20with%20Python%20(University%20of%20Michigan).md)
 
 - [Data Scientist with Python (DataCamp Career Track)](https://github.com/iDataist/Project-Catalogue/blob/master/Data%20Scientist%20with%20Python%20(DataCamp%20Career%20Track).md)
