@@ -1,7 +1,7 @@
-# Table of Contents 
+# Table of Contents
 - [Natural Language Processing](#1)
 - [Deep Learning](#2)
-- [Machine Learning](#3)
+- [Machine Learning Engineering](#3)
 - [Data Science](#4)
 - [Data Engineering](#5)
 
@@ -57,7 +57,7 @@
   - Optimize hyperparameters
 
 <a id='3'></a>
-## Machine Learning
+## Machine Learning Engineering
 
 ### [Deploy a Sentiment Analysis Model with SageMaker](https://github.com/iDataist/Deploy-a-Sentiment-Analysis-Model-with-SageMaker)
   I built a simple web page which a user can use to enter a movie review. The web page will then send the review off to the deployed recurrent neural network which will predict the sentiment of the entered review.
