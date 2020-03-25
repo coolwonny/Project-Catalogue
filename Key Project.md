@@ -1,6 +1,4 @@
-# Key Projects
-
-## Table of Contents
+# Table of Contents 
 - [Natural Language Processing](#1)
 - [Deep Learning](#2)
 - [Machine Learning](#3)
