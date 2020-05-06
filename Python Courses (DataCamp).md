@@ -15,7 +15,7 @@
 - [Case Studies in Statistical Thinking](#18)
 - [Cleaning Data with Apache Spark in Python](#61)
 - [Clustering Methods with SciPy](#57)
-- [Convolutional_Neural_Networks_for_Image_Processing](#55)
+- [Convolutional Neural Networks for Image Processing](#55)
 - [Customer Analytics & A/B Testing in Python](#3)
 - [Customer Segmentation in Python](#2)
 - [Data Types for Data Science](#23)
@@ -45,6 +45,7 @@
 - [Introduction to Seaborn](#15)
 - [Introduction to Spark SQL with Python](#22)
 - [Introduction to TensorFlow in Python](#59)
+- [Introduction to Time Series Analysis in Python](#68)
 - [Linear Classifiers in Python](#12)
 - [Machine Learning for Finance in Python](#39)
 - [Machine Learning for Marketing in Python](#67)
@@ -578,6 +579,19 @@
   - Neural Networks in TensorFlow
 
   - High Level APIs in TensorFlow
+
+<a id='68'></a>
+- [Introduction-to-Time-Series-Analysis-in-Python](https://github.com/iDataist/Introduction-to-Time-Series-Analysis-in-Python)
+
+  - Correlation and Autocorrelation
+
+  - Some Simple Time Series
+
+  - Autoregressive (AR) Models
+
+  - Moving Average (MA) and ARMA Models
+
+  - Putting It All Together
 
 <a id='39'></a>
 - [Machine Learning for Finance in Python](https://github.com/iDataist/Machine-Learning-for-Finance-in-Python)
