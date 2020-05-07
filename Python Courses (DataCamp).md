@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Advanced Deep Learning with Keras in Python](#10)
+- [ARIMA-Models-in-Python](#69)
 - [Analyzing IoT Data in Python](#62)
 - [Analyzing Marketing Campaigns with pandas](#25)
 - [Analyzing Police Activity with pandas](#11)
@@ -95,6 +96,17 @@
   - Multiple Inputs: 3 Inputs (and Beyond!)
 
   - Multiple Outputs
+
+<a id='69'></a>
+- [ARIMA Models in Python](https://github.com/iDataist/ARIMA-Models-in-Python)
+
+  - ARMA Models
+
+  - Fitting the Future
+
+  - The Best of the Best Models
+
+  - Seasonal ARIMA Models
 
 <a id='62'></a>
 - [Analyzing IoT Data in Python](https://github.com/iDataist/Analyzing-IoT-Data-in-Python/blob/master/Analyzing_IoT_Data_in_Python.ipynb)
