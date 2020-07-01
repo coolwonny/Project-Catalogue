@@ -4,6 +4,8 @@
 - [Machine Learning Engineering](#3)
 - [Deep Learning](#4)
 - [Natural Language Processing](#5)
+- [AI for Trading](#6)
+- [AI for Healthcare](#7)
 
 <a id='1'></a>
 ## Data Engineering
@@ -137,5 +139,11 @@
   - Extract feature representations from raw audio
   - Build deep learning models to obtain a probability distribution over all potential transcriptions
 
+<a id='6'></a>
 
+### [AI for Trading](https://github.com/iDataist/Trading-with-AI)
+I generated alpha signals by performing NLP analysis on Financial Statements, and sentiment analysis with neural network on StockTwits. I then combined signals on a random forest for enhanced alpha. Lastly, I performed portfolio optimization that includes transaction costs.
 
+Key Skills Demonstrated:
+- Alpha research and factor modeling
+- Portfolio optimization that includes transaction costs
