@@ -141,7 +141,7 @@
 
 <a id='6'></a>
 
-### [AI for Trading](https://github.com/iDataist/Trading-with-AI)
+## [AI for Trading](https://github.com/iDataist/Trading-with-AI)
 I generated alpha signals by performing NLP analysis on Financial Statements, and sentiment analysis with neural network on StockTwits. I then combined signals on a random forest for enhanced alpha. Lastly, I performed portfolio optimization that includes transaction costs.
 
 Key Skills Demonstrated:
