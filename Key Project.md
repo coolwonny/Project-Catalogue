@@ -146,26 +146,59 @@
 ### [Trading with Momentum](https://github.com/iDataist/Trading-with-AI/tree/master/1_trading_with_momentum)
 I implemented a momentum trading strategy and tested if it has the potential to be profitable. I worked with historical data of a given stock universe and generated a trading signal based on a momentum indicator. I then computed the signal and produced projected returns. Lastly, I performed a statistical test to check if there is alpha in the signal. I used the end of day from Quotemedia as the dataset.
 
+Key Skills Demonstrated
+- Implement a momoentum trading strategy
+- Evaluate the performance by a statistical test
+
 ### [Breakout Strategy](https://github.com/iDataist/Trading-with-AI/tree/master/2_breakout_strategy)
 I implemented and evaluated a breakout signal. I run statistical tests to test for normality and to find alpha. I also found outliers and evaluated the effect that filtered outliers could have on the trading signal. I run various scenarios of the model with or without the outliers and decide if the outliers should be kept or not. I used the end of day from Quotemedia as the dataset.
+
+Key Skills Demonstrated
+- Implement a breakout trading strategy
+- Evaluate the effects of outliers
 
 ### [Smart Beta and Portfolio Optimization](https://github.com/iDataist/Trading-with-AI/tree/master/3_smart_beta)
 I created two portfolios utilizing smart beta methodology and optimization. I evaluated the performance of the portfolios by calculating tracking errors. I also calculated the turnover of the portfolio and found the best timing to rebalance. I came up with the portfolio weights by analyzing fundamental data, and by quadratic programming. I used the end of day from Quotemedia as the dataset.
 
+Key Skills Demonstrated
+- Implement the smart beta methodology
+- Portfolio optimization
+
 ### [Alpha Research and Factor Modeling](https://github.com/iDataist/Trading-with-AI/tree/master/4_alpha_research_and_factor_modeling)
 I researched and generated multiple alpha factors. Then I applied various techniques to evaluate the performance of the alpha factors and picked the best ones for the portfolio. I formulated an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
+
+Key Skills Demonstrated
+- Alpha research
+- Factor modeling
 
 ### [NLP on Financial Statements](https://github.com/iDataist/Trading-with-AI/tree/master/5_nlp_on_financial_statement)
 I applied Natural Language Processing on corporate filings, such as 10Q and 10K statements, from cleaning data and text processing, to feature extraction and modeling. I utilized bag-of-words and TF-IDF to generate company-specific sentiments. Based on the sentiments, I decided which company to invest in, and the optimal time to buy or sell.
 
+Key Skills Demonstrated
+- Process text
+- Generate signals from 10K statements using NLP
+
 ### [Sentiment Analysis with Neural Network](https://github.com/iDataist/Trading-with-AI/tree/master/6_sentiment_analysis_with_neural_network)
 I built deep neural networks to process and interpret news data. I tested different ways of embedding words into vectors. I constructed and trained LSTM networks for sentiment classification. Lastly, I run backtests and applied the models to news data for signal generation.
+
+Key Skills Demonstrated
+- Build LSTM networks for sentiment classification
+- Generate signals from news data
 
 ### [Combining Signals for Enhanced Alpha](https://github.com/iDataist/Trading-with-AI/tree/master/7_combine_signals_for_enhanced_alpha.ipynb)
 I combined signals on a random forest for enhanced alpha. While implementing this, I also solved the problem of overlapping samples. For the dataset, I used the end of day from Quotemedia and sector data from Sharadar.
 
+Key Skills Demonstrated
+- Drop overlapping samples
+- Combine signals with a Random Forest model
+
+
 ### [Backtesting](https://github.com/iDataist/Trading-with-AI/tree/master/8_backtesting)
 I built a backtester that uses the Barra data. The backtester performed portfolio optimization that includes transaction costs. I implemented it with computational efficiency in mind, to allow for a reasonably fast backtest. I also used performance attribution to identify the major drivers of the portfolio's profit-and-loss (PnL).
+
+Key Skills Demonstrated
+- Backtesting
+- Performance attribution
 
 <a id='7'></a>
 
@@ -186,7 +219,7 @@ Key Skills Demonstrated
 - Establish the appropriate ‘ground truth’ methodologies for training algorithms to label medical images
 - Plan necessary validations to prepare a medical imaging model for regulatory approval
 
-### [Hippocampal Volume Quantification in Alzheimer’s Progression](https://github.com/iDataist/Hippocamp
+### [Hippocampal Volume Quantification in Alzheimer’s Progression](https://github.com/iDataist/Hippocampal-Volume-Quantification-in-Alzheimer-s-Progression)
 Hippocampus is one of the major structures of the human brain with functions that are primarily connected to learning and memory. The volume of the hippocampus may change over time, with age, or as a result of disease. In order to measure hippocampal volume, a 3D imaging technique with good soft tissue contrast is required. MRI provides such imaging characteristics, but manual volume measurement still requires careful and time consuming delineation of the hippocampal boundary.
 
 I created an algorithm that would help clinicians assess hippocampal volume in an automated way and integrated this algorithm into a clinician’s working environment. First, I prepared a hippocampal image dataset to train the U-net based segmentation model, and capture performance on the test data. Then, I connected the machine learning execution code into a clinical network,  generated reports based on the algorithm output, and inspected results in a medical image viewer. Lastly, I wrote up a validation plan that would help collect clinical evidence of the algorithm performance, similar to that required by regulatory authorities.
