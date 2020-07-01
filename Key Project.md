@@ -1,7 +1,7 @@
 # Table of Contents
-- [Data Engineering](#1)
+- [Data Engineer](#1)
 - [Data Science](#2)
-- [Machine Learning Engineering](#3)
+- [Machine Learning](#3)
 - [Deep Learning](#4)
 - [Natural Language Processing](#5)
 - [AI for Trading](#6)
@@ -166,3 +166,37 @@ I combined signals on a random forest for enhanced alpha. While implementing thi
 
 ### [Backtesting](https://github.com/iDataist/Trading-with-AI/tree/master/8_backtesting)
 I built a backtester that uses the Barra data. The backtester performed portfolio optimization that includes transaction costs. I implemented it with computational efficiency in mind, to allow for a reasonably fast backtest. I also used performance attribution to identify the major drivers of the portfolio's profit-and-loss (PnL).
+
+<a id='7'></a>
+
+## AI for Healthcare
+
+### [Pneumonia Detection from Chest X-Rays](https://github.com/iDataist/Pneumonia-Detection-from-Chest-Xray)
+
+Chest X-ray exams are one of the most frequent and cost-effective types of medical imaging examinations. Deriving clinical diagnoses from chest X-rays can be challenging, however, even by skilled radiologists. When it comes to pneumonia, chest X-rays are the best available method for point-of-care diagnosis. More than 1 million adults are hospitalized with pneumonia and around 50,000 die from the disease every year in the US alone. The high prevalence of pneumonia makes it a good candidate for the development of a deep learning application for two reasons: 1) Data availability in a high enough quantity for training deep learning models for image classification 2) Opportunity for clinical aid by providing higher accuracy image reads of a difficult-to-diagnose disease and/or reduce clinical burnout by performing automated reads of very common scans.
+
+I analyzed data from the NIH Chest X-ray Dataset and trained a CNN to classify a given chest x-ray for the presence or absence of pneumonia. First, I curated training and testing sets that were appropriate for the clinical question at hand from a large collection of medical images. Then, I created a pipeline to extract images from DICOM files that could be fed into the CNN for model training. Lastly, I wrote an FDA 501(k) validation plan that formally describes the model, the data that it was trained on, and a validation plan that meets FDA criteria in order to obtain clearance of the software being used as a medical device.
+
+Key Skills Demonstrated
+
+- 2D medical imaging data analysis and preparation of a medical imaging model for regulatory approval
+- Recommend appropriate imaging modalities for common clinical applications of 2D medical imaging
+- Perform exploratory data analysis (EDA) on medical imaging data to inform model training and explain model performance
+- Establish the appropriate ‘ground truth’ methodologies for training algorithms to label medical images
+- Extract images from a DICOM dataset
+- Train common CNN architectures to classify 2D medical images
+- Translate outputs of medical imaging models for use by a clinician
+- Plan necessary validations to prepare a medical imaging model for regulatory approval
+
+### [Hippocampal Volume Quantification in Alzheimer’s Progression](https://github.com/iDataist/Hippocampal-Volume-Quantification-in-Alzheimer-s-Progression)
+
+Hippocampus is one of the major structures of the human brain with functions that are primarily connected to learning and memory. The volume of the hippocampus may change over time, with age, or as a result of disease. In order to measure hippocampal volume, a 3D imaging technique with good soft tissue contrast is required. MRI provides such imaging characteristics, but manual volume measurement still requires careful and time consuming delineation of the hippocampal boundary.
+
+I created an algorithm that would help clinicians assess hippocampal volume in an automated way and integrated this algorithm into a clinician’s working environment. First, I prepared a hippocampal image dataset to train the U-net based segmentation model, and capture performance on the test data. Then, I connected the machine learning execution code into a clinical network,  generated reports based on the algorithm output, and inspected results in a medical image viewer. Lastly, I wrote up a validation plan that would help collect clinical evidence of the algorithm performance, similar to that required by regulatory authorities.
+
+### [Patient Selection for Diabetes Drug Testing](https://github.com/iDataist/Patient-Selection-for-Diabetes-Drug-Testing)
+
+EHR data is becoming a key source of real-world evidence (RWE) for the pharmaceutical industry and regulators to make decisions on clinical trials. I built a regression model to predict the estimated hospitalization time for a patient in order to help select/ filter patients for clinical trials. First, I performed exploratory data analysis in order to identify the dataset level and perform feature selection. Next, I built necessary categorical and numerical feature transformations with TensorFlow. Lastly, Iwill built a model and applied various analysis frameworks, including TensorFlow Probability and Aequitas, to evaluate model bias and uncertainty.
+
+### [Motion Compensated Pulse Rate Estimation](https://github.com/iDataist/Motion-Compensated-Pulse-Rate-Estimation)
+Wearable devices have multiple sensors all collecting information about the same person at the same time. Combining these data streams allows us to accomplish many tasks that would be impossible from a single sensor. I built an algorithm which combines information from the IMU and PPG sensors and estimates the wearer’s pulse rate in the presence of motion. The algorithm uses the frequency domain techniques, and produces an associated confidence metric that estimates the accuracy of the pulse rate estimate. I evaluated the algorithm performance and iterated on design until the desired accuracy is achieved.
